@@ -1,9 +1,0 @@
-TARGETNAME=eventlog
-TARGETPATH=obj
-TARGETTYPE=LIBRARY
-
-SOURCES=\
-    eventlog.mc \
-    eventlog.cpp
-
-NTTARGETFILE0=$(O)\eventlog.h

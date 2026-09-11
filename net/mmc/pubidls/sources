@@ -1,8 +1,0 @@
-TARGETNAME=idl
-TARGETPATH=obj
-TARGETTYPE=NOTARGET
-
-INCLUDES=..\common\include;..\idl\$(O);
-
-SOURCES=rrasui.idl
-

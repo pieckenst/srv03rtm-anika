@@ -1,6 +1,0 @@
-DIRS=\
-    auditor \
-    dll_bld \
-    msgtbl \
-    thrdpool \
-    util

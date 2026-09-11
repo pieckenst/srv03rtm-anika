@@ -1,8 +1,0 @@
-DIRS=\
-    hhwrap \
-    pba \
-    pbserver \
-    pbsmon \
-    pbsvrmsg \
-    pbsnetoc
-

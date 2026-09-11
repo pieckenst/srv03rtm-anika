@@ -1,7 +1,0 @@
-
-LIBRARY IPBOOTP
-
-EXPORTS
-    RegisterProtocol
-    EnableDhcpInformServer
-    DisableDhcpInformServer

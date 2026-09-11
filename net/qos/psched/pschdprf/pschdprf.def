@@ -1,8 +1,0 @@
-LIBRARY		PschdPrf
-
-EXPORTS
-
-    OpenPschedPerformanceData
-    CollectPschedPerformanceData
-    ClosePschedPerformanceData
-

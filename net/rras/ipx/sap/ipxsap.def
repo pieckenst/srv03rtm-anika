@@ -1,6 +1,0 @@
-LIBRARY
-
-EXPORTS
-    DllMain
-    RegisterProtocol
-    ServiceMain

@@ -1,2 +1,0 @@
-readme.htm msft\mgmt\ias
-iasnt4.exe msft\mgmt\ias

@@ -1,9 +1,0 @@
-LIBRARY wrp
-
-EXPORTS
-
-    CheckVersion
-    WinDbgExtensionDllInit
-    ExtensionApiVersion
-
-    help

@@ -1,8 +1,0 @@
-DIRS=\
-    lib \
-    loopback \
-    pnptst \
-    samples \
-    sys \
-    uio \
-    tunmp

@@ -1,8 +1,0 @@
-; Wireless Zero Configuration service
-
-LIBRARY WZCSvc.DLL
-
-EXPORTS
-	WZCSvcMain
-	WZCQueryGUIDNCSState
-	WZCTrayIconReady

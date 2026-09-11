@@ -1,6 +1,0 @@
-DIRS =  dll \
-	netmap
-
-
-OPTIONAL_DIRS =
-

@@ -1,5 +1,0 @@
-NAME        BTPAGNT
-EXPORTS
-            SnmpExtensionInit
-            SnmpExtensionQuery
-            SnmpExtensionTrap

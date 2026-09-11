@@ -1,4 +1,0 @@
-TARGETNAME=ipfltprf
-!include ..\sources.inc
-
-C_DEFINES=$(C_DEFINES) -DDRIVER_PERF -DDRIVER_DEBUG -DFULL_DEBUG

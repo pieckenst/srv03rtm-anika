@@ -1,4 +1,0 @@
-LIBRARY IPXPROMN
-EXPORTS
-    InitHelperDll
-    

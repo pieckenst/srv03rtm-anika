@@ -1,2 +1,0 @@
-#define IDX_DESC_DOC 100
-#define IDR_SAMPLE_DEVICE 100

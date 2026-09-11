@@ -1,5 +1,0 @@
-LIBRARY     MCASTMIB
-EXPORTS
-            SnmpExtensionInit
-            SnmpExtensionQuery
-            SnmpExtensionTrap

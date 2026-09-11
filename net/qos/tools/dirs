@@ -1,4 +1,0 @@
-DIRS=\
-    timestmp \
-    tsinstl  \
-    qtcp 

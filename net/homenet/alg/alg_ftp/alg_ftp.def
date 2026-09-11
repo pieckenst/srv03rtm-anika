@@ -1,9 +1,0 @@
-; ALG_FTP.def : Declares the module parameters.
-
-LIBRARY      "ALG_FTP.DLL"
-
-EXPORTS
-	DllCanUnloadNow      PRIVATE
-	DllGetClassObject    PRIVATE
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE

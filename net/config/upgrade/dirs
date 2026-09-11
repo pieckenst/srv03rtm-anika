@@ -1,7 +1,0 @@
-DIRS =  netupgrd \
-	nunt4dll \
-	modemshr
-
-
-OPTIONAL_DIRS =
-

@@ -1,9 +1,0 @@
-DIRS=\
-    pastore \
-    spd \
-    ipsecshr \
-    polstore \
-    ipsecsnp \
-    oakley \
-    nshipsec \
-    componentdef

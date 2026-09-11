@@ -1,9 +1,0 @@
-DIRS=\
-    auth \
-    basecamp \
-    eap \
-    ldap \
-    lsa \
-    names \
-    peruser \
-    dll

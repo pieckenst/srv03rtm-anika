@@ -1,4 +1,0 @@
-DIRS=\
-    nt \
-    dhcp \
-    rogue

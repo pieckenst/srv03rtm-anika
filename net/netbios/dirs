@@ -1,5 +1,0 @@
-DIRS=\
-    lib \
-    sys \
-    winsock \
-    componentdef

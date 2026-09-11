@@ -1,6 +1,0 @@
-DIRS=\
-    ALG    \
-    bridge \
-    config \
-    beacon \
-    netsh

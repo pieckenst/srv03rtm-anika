@@ -1,5 +1,0 @@
-LIBRARY     RIPAGNT
-EXPORTS
-            SnmpExtensionInit
-            SnmpExtensionQuery
-            SnmpExtensionTrap

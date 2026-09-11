@@ -1,9 +1,0 @@
-!IF 0
-
-Copyright (c) 1989  Microsoft Corporation
-
-!ENDIF
-
-DIRS=mp  \
-     ndiskd \
-     ndissym

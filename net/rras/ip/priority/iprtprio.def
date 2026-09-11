@@ -1,6 +1,0 @@
-LIBRARY iprtprio
-
-EXPORTS
-       ComputeRouteMetric
-       SetPriorityInfo
-       GetPriorityInfo

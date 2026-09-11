@@ -1,5 +1,0 @@
-DIRS=\
-    pclass \
-    psched \
-    rsvp \
-    tc

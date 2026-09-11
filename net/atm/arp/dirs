@@ -1,5 +1,0 @@
-DIRS=\
-    atmarp \
-    atmarpc \
-    atmarps \
-    kdext{32}

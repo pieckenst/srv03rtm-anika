@@ -1,4 +1,0 @@
-LIBRARY smbsvc.dll
-
-EXPORTS
-    ServiceMain

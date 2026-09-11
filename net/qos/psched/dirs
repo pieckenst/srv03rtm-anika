@@ -1,5 +1,0 @@
-DIRS=\
-    kdext{32} \
-    pschdprf \
-    pslog \
-    sys

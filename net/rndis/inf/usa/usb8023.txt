@@ -1,8 +1,0 @@
-;
-; Localizable strings
-;
-[Strings]
-Microsoft                       = "Microsoft"
-Peracom                         = "Peracom"
-USB\VID_0565&PID_0041           = "Peracom USB Remote NDIS Ethernet Adapter"
-CommonServiceDisplayName        = "USB Communications Class"

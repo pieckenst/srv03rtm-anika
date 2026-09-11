@@ -1,6 +1,0 @@
-DIRS=\
-    idl \
-    mof \
-    CfgMgr \
-    NATUPnP   \
-    dll

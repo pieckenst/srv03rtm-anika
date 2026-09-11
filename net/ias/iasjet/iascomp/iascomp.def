@@ -1,4 +1,0 @@
-LIBRARY IASCOMP.DLL
-
-EXPORTS
-   IASCompatibilityCheck

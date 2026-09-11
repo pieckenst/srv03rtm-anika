@@ -1,9 +1,0 @@
-DIRS=\
-    idl \
-    dhcp \
-    dns \
-    h323 \
-    natapi \
-    natsvc \
-    alg \
-    dll

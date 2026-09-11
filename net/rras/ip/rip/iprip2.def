@@ -1,5 +1,0 @@
-
-LIBRARY IPRIP2
-
-EXPORTS
-    RegisterProtocol

@@ -1,4 +1,0 @@
-DIRS=\
-    netmon \
-    netdiag \
-    wmi

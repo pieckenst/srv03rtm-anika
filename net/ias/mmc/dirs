@@ -1,5 +1,0 @@
-DIRS=\
-	ias \
-	iasnt4 \
-	proxy \
-	nap

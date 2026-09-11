@@ -1,8 +1,0 @@
-LIBRARY rasadhlp
-EXPORTS
-    AcsHlpAttemptConnection
-    AcsHlpNbConnection
-    AcsHlpNoteNewConnection
-    WSAttemptAutodialAddr
-    WSAttemptAutodialName
-    WSNoteSuccessfulHostentLookup

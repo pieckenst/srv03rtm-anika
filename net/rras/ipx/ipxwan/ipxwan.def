@@ -1,4 +1,0 @@
-LIBRARY IPXWAN
-EXPORTS
-    IpxwanBind
-    IpxwanUnbind
