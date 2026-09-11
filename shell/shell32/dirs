@@ -1,7 +1,0 @@
-DIRS = \
-    menuband    \ 
-    sdspatch    \
-    ntcpp       \
-    unicpp      \
-    winnt       \
-    downlevel{x86}

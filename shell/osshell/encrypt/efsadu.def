@@ -1,8 +1,0 @@
-
-LIBRARY EFSADU
-
-EXPORTS EfsDetail
-EXPORTS BackCurrentEfsCert
-EXPORTS AddUserToObjectW
-
-

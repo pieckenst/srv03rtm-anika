@@ -1,7 +1,0 @@
-LIBRARY         twext
-EXPORTS
-                DllRegisterServer       PRIVATE
-                DllUnregisterServer     PRIVATE
-                DllCanUnloadNow         PRIVATE
-                DllGetClassObject       PRIVATE
-

@@ -1,5 +1,0 @@
-#define IDH_TIMEWARP_SNAPSHOTLIST       203
-#define IDH_TIMEWARP_OPENSNAP           204
-#define IDH_TIMEWARP_SAVESNAP           205
-#define IDH_TIMEWARP_RESTORESNAP        206
-
