@@ -1,1 +1,0 @@
-%~DP0\awk -f %~DP0\comment.awk -v loc=%~DP0  %1

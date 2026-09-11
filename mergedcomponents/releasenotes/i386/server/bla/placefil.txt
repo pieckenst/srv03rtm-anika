@@ -1,3 +1,0 @@
-Readme.htm	ReadMe_Root\Server\bla
-Websrv1.txt	SetupTxt\Server\bla
-websrv2.txt	SetupTxt\Server\bla

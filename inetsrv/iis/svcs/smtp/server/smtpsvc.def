@@ -1,6 +1,0 @@
-LIBRARY SMTPSVC
-
-EXPORTS
-
-    ServiceEntry
-

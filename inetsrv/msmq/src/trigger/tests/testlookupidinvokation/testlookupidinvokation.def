@@ -1,9 +1,0 @@
-; testLookupidInvokation.def : Declares the module parameters.
-
-LIBRARY      "testLookupidInvokation.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

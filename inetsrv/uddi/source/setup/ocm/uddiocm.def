@@ -1,4 +1,0 @@
-LIBRARY	uddiocm
-
-EXPORTS
-	OcEntry @1

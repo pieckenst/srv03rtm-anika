@@ -1,3 +1,0 @@
-[Components]
-UDDI=on
-msmq=off

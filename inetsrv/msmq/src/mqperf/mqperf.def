@@ -1,6 +1,0 @@
-LIBRARY MQPERF
-
-EXPORTS
-    PerfOpen	 
-    PerfCollect	 
-    PerfClose	 

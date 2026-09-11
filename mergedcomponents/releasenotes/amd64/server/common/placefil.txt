@@ -1,3 +1,0 @@
-Read1st.txt		SetupTxt\Server
-RelNotes.htm		SetupTxt\Server
-winsrv_logo_horiz_sm.gif	SetupTxt\Server

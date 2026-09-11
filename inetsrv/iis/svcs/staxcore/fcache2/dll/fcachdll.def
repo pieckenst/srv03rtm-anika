@@ -1,7 +1,0 @@
-; rwnh.def Decalares the module parameters for the DLL
-
-LIBRARY "FCACHDLL"
-
-EXPORTS
-
-

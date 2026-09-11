@@ -1,1 +1,0 @@
-#include "..\..\mqutil\res\migtools\mqmigres.h"

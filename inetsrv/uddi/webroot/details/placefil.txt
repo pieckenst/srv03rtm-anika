@@ -1,6 +1,0 @@
-bindingdetail.aspx	uddi\webroot\details
-businessdetail.aspx	uddi\webroot\details
-contactdetail.aspx	uddi\webroot\details
-instanceinfodetail.aspx	uddi\webroot\details
-modeldetail.aspx	uddi\webroot\details
-servicedetail.aspx	uddi\webroot\details

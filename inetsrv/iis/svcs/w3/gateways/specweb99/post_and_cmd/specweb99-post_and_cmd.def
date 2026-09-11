@@ -1,6 +1,0 @@
-LIBRARY SPECWEB99-POST_AND_CMD
-
-EXPORTS
-    HttpExtensionProc
-    GetExtensionVersion
-    TerminateExtension

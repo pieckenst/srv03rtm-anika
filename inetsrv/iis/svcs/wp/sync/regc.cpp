@@ -1,8 +1,0 @@
-// regc.cpp : Implementation of Cregc
-#include "stdafx.h"
-#include "mdsync.h"
-#include "regc.h"
-
-/////////////////////////////////////////////////////////////////////////////
-// Cregc
-

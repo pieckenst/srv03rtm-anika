@@ -1,6 +1,0 @@
-DIRS=\
-	common\
-	srv\
-	adv\
-	dtc\
-	bla

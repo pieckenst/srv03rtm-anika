@@ -1,7 +1,0 @@
-DIRS=convlog \
-     htmla
-
-
-#keyring is no longer part of the product in NT5 and beyond
-#keyring \
-#w3key  \

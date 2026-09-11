@@ -1,6 +1,0 @@
-
-LIBRARY MQFrgnKy
-
-EXPORTS
-        MQFrgn_StorePubKeysInDS
-

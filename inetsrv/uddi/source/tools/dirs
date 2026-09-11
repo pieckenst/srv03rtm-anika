@@ -1,1 +1,0 @@
-dirs = rcf monitor send resetkey validate bootstrap migrate replicationadmin recalcstats

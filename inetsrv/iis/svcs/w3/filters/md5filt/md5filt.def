@@ -1,6 +1,0 @@
-LIBRARY MD5FILT
-
-EXPORTS
-    HttpFilterProc
-    GetFilterVersion
-    TerminateFilter

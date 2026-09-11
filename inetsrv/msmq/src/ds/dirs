@@ -1,8 +1,0 @@
-DIRS= \
-    dsutils  \
-    mqdscore \
-    mqads    \
-    mqdssrv  \
-    mqdscli  \
-    mqad     \
-    ad \

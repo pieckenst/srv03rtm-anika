@@ -1,6 +1,0 @@
-
-LIBRARY MSMQCOMP
-
-EXPORTS
-
-	MsmqComp

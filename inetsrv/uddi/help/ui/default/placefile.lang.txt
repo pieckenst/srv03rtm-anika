@@ -1,1 +1,0 @@
-web.config							uddi\webroot\help\default

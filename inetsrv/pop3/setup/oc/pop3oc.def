@@ -1,7 +1,0 @@
-LIBRARY POP3OC
-
-EXPORTS
-
-    OcEntry
-
-

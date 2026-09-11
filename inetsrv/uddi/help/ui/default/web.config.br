@@ -1,8 +1,0 @@
-<!--
-	UDDI Help Configuration for Brazilian Portuguese
--->
-<configuration>
-	<system.web>
-		<globalization fileEncoding='Windows-1252' />
-	</system.web>
-</configuration>

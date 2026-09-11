@@ -1,7 +1,0 @@
-LIBRARY   ExPrfDll
-
-EXPORTS
-	NTFSDrvOpen
-	NTFSDrvCollect
-	NTFSDrvClose
-

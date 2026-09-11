@@ -1,4 +1,0 @@
-DIRS=\
-	scripts \
-	nntp \
-	smtp

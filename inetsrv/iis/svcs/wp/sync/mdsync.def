@@ -1,9 +1,0 @@
-; sync.def : Declares the module parameters.
-
-LIBRARY      "sync.DLL"
-
-EXPORTS
-	DllCanUnloadNow PRIVATE
-	DllGetClassObject PRIVATE
-	DllRegisterServer PRIVATE
-	DllUnregisterServer PRIVATE

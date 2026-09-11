@@ -1,2 +1,0 @@
-DIRS=acssctrl certifct encrypt srvauthn secutils
-OPTIONAL_DIRS=EncryptTest

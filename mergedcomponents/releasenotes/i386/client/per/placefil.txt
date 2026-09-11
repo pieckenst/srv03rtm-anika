@@ -1,2 +1,0 @@
-readme.htm	ReadMe_Root\Client\per
-home.txt 	SetupTxt\Client\per

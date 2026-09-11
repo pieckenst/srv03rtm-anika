@@ -1,9 +1,0 @@
-; Pop3.def : Declares the module parameters.
-
-LIBRARY      "Pop3Server.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer PRIVATE

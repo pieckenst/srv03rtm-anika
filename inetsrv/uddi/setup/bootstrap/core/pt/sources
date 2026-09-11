@@ -1,8 +1,0 @@
-!include ..\sources.inc 
- 
-ALT_PROJECT=PT 
-ALT_PROJECT_TARGET=PT  
- 
-  
-MISCFILES= \
-          MapPointGeographicContextHierarchy.loc.xml       

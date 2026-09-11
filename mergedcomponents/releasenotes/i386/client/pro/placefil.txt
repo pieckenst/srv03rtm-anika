@@ -1,2 +1,0 @@
-readme.htm	ReadMe_Root\Client\pro
-pro.txt		SetupTxt\Client\Pro	

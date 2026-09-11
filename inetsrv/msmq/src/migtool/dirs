@@ -1,1 +1,0 @@
-DIRS=mqdbodbc{32} mqmig{32} mqmigrat{32}

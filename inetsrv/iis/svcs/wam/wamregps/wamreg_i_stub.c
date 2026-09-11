@@ -1,1 +1,0 @@
-#include "wamreg_i.c"

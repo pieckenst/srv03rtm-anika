@@ -1,6 +1,0 @@
-dirs =          \
-Shared          \
-Admin           \
-service		\
-smtp	        \
-setup

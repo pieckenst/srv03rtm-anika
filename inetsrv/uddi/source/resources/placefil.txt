@@ -1,2 +1,0 @@
-uddi.resources		uddi\resources
-uddi.loc.resources	uddi\resources

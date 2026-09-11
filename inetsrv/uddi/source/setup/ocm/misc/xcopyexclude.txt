@@ -1,7 +1,0 @@
-.ncb
-.pch
-.sou
-.obj
-.ilk
-.pdb
-.bak

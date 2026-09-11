@@ -1,1 +1,0 @@
-logo.gif		uddi\webroot\images

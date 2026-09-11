@@ -1,8 +1,0 @@
-; mqclus.def : Declares the module parameters for the DLL.
-
-LIBRARY      "MQCLUS"
-
-EXPORTS
-    ; Explicit exports can go here
-    Startup
-	

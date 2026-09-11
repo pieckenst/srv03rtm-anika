@@ -1,6 +1,0 @@
-LIBRARY W3MIN
-
-EXPORTS
-    HttpExtensionProc
-    GetExtensionVersion
-

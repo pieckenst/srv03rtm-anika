@@ -1,7 +1,0 @@
-LIBRARY PWSDATA
-
-EXPORTS
-    HttpFilterProc
-    GetFilterVersion
-    TerminateFilter
-    GetPwsData

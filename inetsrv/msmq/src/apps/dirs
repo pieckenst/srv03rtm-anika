@@ -1,5 +1,0 @@
-DIRS= \
-    bkuprstr \
-
-OPTIONAL_DIRS=\
-    bvt\
