@@ -1,3 +1,0 @@
-DIRS = daytona \
-       win9x{386} \
-       dilib

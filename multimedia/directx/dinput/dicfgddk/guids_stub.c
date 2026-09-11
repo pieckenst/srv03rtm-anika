@@ -1,1 +1,0 @@
-#include "..\\..\\diconfig\\guids.c"

@@ -1,6 +1,0 @@
-DIRS = \
-    idl \
-    mmapi \
-    src \
-    rsrc \
-    dll

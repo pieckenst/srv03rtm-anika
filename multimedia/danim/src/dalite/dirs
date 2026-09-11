@@ -1,5 +1,0 @@
-DIRS = \
-    idl \
-    src \
-    rsrc \
-    dll

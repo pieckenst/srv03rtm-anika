@@ -1,5 +1,0 @@
-
-[Strings]
-Msft            = "Microsoft"
-DHCPServer_Desc = "DHCP-сервер"
-DHCPServer_Help = "Автоматически назначает  IP-адреса для других компьютеров, на которых запущены клиентские программы DHCP (Dynamic Host Configuration Protocol)."

@@ -1,6 +1,0 @@
-DIRS = \
-    util \
-    srcodl \
-    controls
-
-

@@ -1,8 +1,0 @@
-; Copyright (c) 1998 Microsoft Corporation
-LIBRARY dmime.dll
-
-EXPORTS
-	DllCanUnloadNow					PRIVATE
-	DllGetClassObject				PRIVATE
-	DllRegisterServer				PRIVATE
-	DllUnregisterServer				PRIVATE

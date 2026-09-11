@@ -1,1 +1,0 @@
-Internet Connection Sharing is not available on this version of Microsoft Windows. To enable Internet sharing, use Routing and Remote Access.

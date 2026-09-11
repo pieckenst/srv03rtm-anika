@@ -1,7 +1,0 @@
-DIRS = \
-    idl \
-    control \
-	behaviors \
-    messages \
-	chrome \
-    dll

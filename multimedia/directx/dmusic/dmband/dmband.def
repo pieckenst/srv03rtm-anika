@@ -1,8 +1,0 @@
-; Copyright (c) 1998 Microsoft Corporation
-LIBRARY dmband.dll
-
-EXPORTS
-	DllCanUnloadNow					PRIVATE
-	DllGetClassObject				PRIVATE
-	DllRegisterServer				PRIVATE
-	DllUnregisterServer				PRIVATE
