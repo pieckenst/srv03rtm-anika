@@ -500,6 +500,8 @@ typedef struct _EPROCESS {
 
     MM_AVL_TABLE VadRoot;
 
+    ULONG Cookie;
+
 } EPROCESS;
 
 

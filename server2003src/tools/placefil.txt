@@ -5121,6 +5121,7 @@ em2ms.exe        reskit\bin
 em556n4.sys      retail
 emaD.chm         retail  ;ema_d.chm/ema.chm
 emaE.chm             retail
+embedded.mst     retail
 empci.sys        retail
 empty.exe        idw
 empty_pb.mdb     retail
@@ -14645,6 +14646,7 @@ router.exe       retail
 routetab.dll     retail
 routing.inf      retail
 rover.acs        retail    ;SearchAssistant
+royale.mst       retail
 rpc.hdx          mstools
 rpc.hlp          mstools
 rpc.ind          mstools
@@ -15927,7 +15929,6 @@ srl123sk.gpd     retail
 srl4375k.gpd     retail
 srusbusd.dll     retial
 srusbusd.inf     retail
-srv_info.chm     retail
 srv.sys          retail
 srvany.exe       reskit\bin
 srvcheck.exe     reskit\bin
@@ -19457,4 +19458,5 @@ zoneoc.dll       retail   ; Zone Internet Games
 zoomin.exe       mstools
 zrtdll.dll       mstools
 zser32.dll       mstools
+zune.mst         retail
 zwapi.exe        bldtools

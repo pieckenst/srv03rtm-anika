@@ -2143,6 +2143,26 @@ Return Value:
 
         KeLowerIrql (PASSIVE_LEVEL);
     }
+
+    //
+    // Fill in the system wide cookie if its zero
+    //
+    while (1) {
+        ULONG Cookie;
+        LARGE_INTEGER Time;
+        PKPRCB Prcb;
+
+        Cookie = SharedUserData->Cookie;
+        if (Cookie != 0) {
+            return;
+        } else {
+            KeQuerySystemTime (&Time);
+            Prcb = KeGetCurrentPrcb ();
+            Cookie = Time.LowPart ^ Time.HighPart ^ Prcb->InterruptTime ^ (ULONG)(ULONG_PTR)&Time;
+            InterlockedCompareExchange ((PLONG)&SharedUserData->Cookie, Cookie, 0);
+        }
+    }
+
 }
 
 

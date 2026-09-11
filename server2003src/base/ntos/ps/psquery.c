@@ -1542,6 +1542,48 @@ NtQueryInformationProcess(
         ObDereferenceObject(Process);
         return st;
     }
+
+    case ProcessCookie: {
+        ULONG Cookie;
+        LARGE_INTEGER Time;
+        PKPRCB Prcb;
+  
+
+        if (ProcessInformationLength != sizeof (ULONG)) {
+            return STATUS_INFO_LENGTH_MISMATCH;
+        }
+
+        if (ProcessHandle != NtCurrentProcess ()) {
+            return STATUS_INVALID_PARAMETER;
+        }
+
+        Process = PsGetCurrentProcess ();
+
+        while (1) {
+            Cookie = Process->Cookie;
+            if (Cookie != 0) {
+
+                try {
+                    *(PULONG)ProcessInformation = Process->Cookie;
+
+                    if (ARGUMENT_PRESENT (ReturnLength)) {
+                        *ReturnLength = sizeof (ULONG);
+                    }
+                } except(EXCEPTION_EXECUTE_HANDLER) {
+                    return GetExceptionCode ();
+                }
+
+                return STATUS_SUCCESS;
+
+            } else {
+                KeQuerySystemTime (&Time);
+                Prcb = KeGetCurrentPrcb ();
+                Cookie = Time.LowPart ^ Time.HighPart ^ Prcb->InterruptTime ^ Prcb->KeSystemCalls;
+                InterlockedCompareExchange ((PLONG)&Process->Cookie, Cookie, 0);
+            }
+        }
+    }
+
     default:
 
         return STATUS_INVALID_INFO_CLASS;
