@@ -1,2 +1,0 @@
-copyfiles:   
-   copyreqfiles.cmd

@@ -1,9 +1,0 @@
-DIRS= inc    \
-      rtl    \
-      client \
-      kernel \
-      server \
-      kdexts \
-      kbd    \
-      imm    \
-      embedded
