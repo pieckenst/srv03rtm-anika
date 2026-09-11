@@ -1,5 +1,0 @@
-#Build ANSI
-#----------------
-
-MSI_BUILD_UNICODE=0
-!INCLUDE ..\sources.inc

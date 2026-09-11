@@ -1,5 +1,0 @@
-!include ..\sources.inc
-
-C_DEFINES=		$(C_DEFINES) -DUNICODE -D_UNICODE
-
-TARGETNAME=     wnuiuni

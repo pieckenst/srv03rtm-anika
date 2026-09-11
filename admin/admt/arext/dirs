@@ -1,7 +1,0 @@
-DIRS=AddToGrp \
-    DisAcct \
-    GetRids \
-    ScmMigr \
-    SetPwd \
-    UpdateDb \
-    UPNUpdt

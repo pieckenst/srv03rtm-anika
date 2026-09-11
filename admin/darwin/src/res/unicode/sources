@@ -1,6 +1,0 @@
-#Build ship UNICODE
-#----------------
-
-MSI_BUILD_SHIP=1
-MSI_BUILD_UNICODE=1
-!INCLUDE ..\sources.inc

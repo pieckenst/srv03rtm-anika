@@ -1,9 +1,0 @@
-
-LIBRARY sfmpsdib
-
-
-EXPORTS
-        PStoDIB
-        PsInitializeDll
-
-

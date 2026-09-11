@@ -1,4 +1,0 @@
-DIRS= \
-        fhclicfg \
-
-OPTIONAL_DIRS=

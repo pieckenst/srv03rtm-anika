@@ -1,9 +1,0 @@
-; MCSNetObjectEnum.def : Declares the module parameters.
-
-LIBRARY      "MCSNetObjectEnum.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

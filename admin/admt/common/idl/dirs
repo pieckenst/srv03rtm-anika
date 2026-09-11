@@ -1,6 +1,0 @@
-DIRS=AgtSvc \
-     AgtSvcNT4 \
-     PwdSvc \
-     PwdSvcNT4 \
-     OtherIdls \
-     OtherIdlsNT4

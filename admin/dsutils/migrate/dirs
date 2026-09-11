@@ -1,6 +1,0 @@
-DIRS= \
-    clonepr	\
-	scripts	
-
-
-OPTIONAL_DIRS=

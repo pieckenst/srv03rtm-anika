@@ -1,6 +1,0 @@
-#Build ANSI
-#----------------
-
-MSI_BUILD_UNICODE=0
-MIDL_OPTIMIZATION=-Os -error all
-!INCLUDE ..\sources.inc

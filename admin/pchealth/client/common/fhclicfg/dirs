@@ -1,5 +1,0 @@
-DIRS= \
-       full \
-       lite \
-
-OPTIONAL_DIRS=

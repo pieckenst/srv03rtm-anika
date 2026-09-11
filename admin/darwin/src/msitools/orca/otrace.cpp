@@ -1,2 +1,0 @@
-
-#include "..\common\trace.cpp"

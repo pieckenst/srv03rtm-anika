@@ -1,3 +1,0 @@
-LIBRARY SYMRES
-EXPORTS
-    ResolveSymbols @1

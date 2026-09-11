@@ -1,9 +1,0 @@
-; DisableTargetAccount.def : Declares the module parameters.
-
-LIBRARY      "DisableTargetAccount.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE 

@@ -1,3 +1,0 @@
-adminpak.dll		adminpak
-WiStream.vbs		adminpak
-updversn.vbs		adminpak
