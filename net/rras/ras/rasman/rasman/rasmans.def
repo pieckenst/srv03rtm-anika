@@ -1,8 +1,0 @@
-LIBRARY
-
-EXPORTS
-    ServiceMain
-    ServiceRequestInProcess
-    _RasmanEngine
-    _RasmanInit
-    SetEntryDialParams

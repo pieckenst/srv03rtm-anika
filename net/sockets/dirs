@@ -1,6 +1,0 @@
-DIRS=\
-    compdef \
-    inetdb \
-    sockreg \
-    sockutil \
-    

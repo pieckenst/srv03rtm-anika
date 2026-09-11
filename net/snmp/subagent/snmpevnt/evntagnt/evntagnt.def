@@ -1,8 +1,0 @@
-LIBRARY snmpelea
-
-EXPORTS
-    SnmpExtensionClose
-    SnmpExtensionInit
-    SnmpExtensionQuery
-    SnmpExtensionTrap
-

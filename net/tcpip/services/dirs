@@ -1,7 +1,0 @@
-DIRS=\
-    exe \
-    lpd \
-    rip \
-    simple \
-    telnet \
-    tftpd

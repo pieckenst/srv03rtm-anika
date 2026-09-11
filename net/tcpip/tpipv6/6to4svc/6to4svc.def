@@ -1,4 +1,0 @@
-LIBRARY 6to4Svc
-
-EXPORTS
-        ServiceMain

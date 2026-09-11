@@ -1,9 +1,0 @@
-; avTapi.def : Declares the module parameters.
-
-LIBRARY      "avTapi.DLL"
-
-EXPORTS
-	DllCanUnloadNow PRIVATE
-	DllGetClassObject PRIVATE
-	DllRegisterServer PRIVATE
-	DllUnregisterServer PRIVATE

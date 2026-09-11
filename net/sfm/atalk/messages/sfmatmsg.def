@@ -1,5 +1,0 @@
-LIBRARY SFMATMSG
-
-EXPORTS
-
-    DummyEntryPoint

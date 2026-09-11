@@ -1,5 +1,0 @@
-LIBRARY         TELEPHON.CPL
-
-EXPORTS
-    DllMain
-    CPlApplet @2

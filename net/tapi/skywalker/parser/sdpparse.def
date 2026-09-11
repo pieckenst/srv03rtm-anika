@@ -1,7 +1,0 @@
-LIBRARY SDPPARSE
-
-DESCRIPTION 'SDP PARSER - parses Session Description Protocol (SDP) packets'
-
-EXPORTS    
-
-;eof

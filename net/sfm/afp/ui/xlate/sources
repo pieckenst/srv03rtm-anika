@@ -1,9 +1,0 @@
-TARGETNAME=afpmgr
-TARGETPATH=obj
-TARGETTYPE=LIBRARY
-
-UMTYPE=windows
-
-INCLUDES=..\..\..\h;..\afpmgr
-
-SOURCES=afpmgr.rc

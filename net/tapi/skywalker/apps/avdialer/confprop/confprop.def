@@ -1,6 +1,0 @@
-; ConfProp.def : Declares the module parameters.
-
-LIBRARY      "ConfProp.DLL"
-
-EXPORTS
-	DllMain          @1 PRIVATE

@@ -1,7 +1,0 @@
-LIBRARY winsmib
-
-EXPORTS
-  SnmpExtensionClose
-  SnmpExtensionInit
-  SnmpExtensionQuery
-  SnmpExtensionTrap

@@ -1,5 +1,0 @@
-LIBRARY SPORDER
-
-EXPORTS
-    WSCWriteNameSpaceOrder
-    WSCWriteProviderOrder

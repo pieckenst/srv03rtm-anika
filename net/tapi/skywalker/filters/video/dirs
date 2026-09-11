@@ -1,4 +1,0 @@
-DIRS=\
-    tapih26x \
-    tapivcap{x86} \
-    tapivdec

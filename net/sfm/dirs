@@ -1,5 +1,0 @@
-DIRS=\
-    afp \
-    atalk \
-    setup \
-    uam

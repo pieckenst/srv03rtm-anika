@@ -1,8 +1,0 @@
-DIRS=\
-   common \
-   compiler \
-   manager \
-   mibs \
-   newagent \
-   sld \
-   subagent

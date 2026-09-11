@@ -1,7 +1,0 @@
-DIRS=\
-    connopt \
-    kmcancel \
-    limitbcast \
-    mcastloop \
-    rcvall \
-    rtchange

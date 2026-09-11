@@ -1,9 +1,0 @@
-; wavemsp.def : Declares the module parameters.
-
-LIBRARY      "wavemsp.DLL"
-
-EXPORTS
-	DllCanUnloadNow PRIVATE
-	DllGetClassObject PRIVATE
-	DllRegisterServer PRIVATE
-	DllUnregisterServer PRIVATE

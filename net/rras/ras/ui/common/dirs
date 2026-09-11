@@ -1,9 +1,0 @@
-DIRS=\
-    debug \
-    nouiutil \
-    pbk \
-    phonenum \
-    rnk \
-    sharing \
-    tapiutil \
-    uiutil

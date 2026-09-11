@@ -1,6 +1,0 @@
-
-DIRS= \
-    shim        \
-    sys         \
-    kdext{32}
-

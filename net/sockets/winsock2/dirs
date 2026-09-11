@@ -1,6 +1,0 @@
-DIRS=\
-    ws2help \
-    ws2_32  \
-    wsp     \
-    wsock32 \
-    util

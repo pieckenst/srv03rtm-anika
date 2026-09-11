@@ -1,5 +1,0 @@
-#include <windows.h>
-
-#include "modem.rcv"
-
-#include "resource.rc"

@@ -1,8 +1,0 @@
-DIRS= \
-    common \
-    dll \
-    mxs32 \
-    mxswrap \
-    rasman \
-    serial32 \
-    tapi32
