@@ -1,3 +1,0 @@
-SOURCES_SUBDIR=fi
-
-!include ..\sources.inc

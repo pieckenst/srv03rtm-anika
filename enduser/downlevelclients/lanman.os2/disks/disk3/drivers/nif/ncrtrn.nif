@@ -1,5 +1,0 @@
-Model = NCR Token Ring Adapter
-Path = TOKENRNG\NCRTRN
-DeviceDriver = NCRTRN.OS2
-DeviceName = NCRTRN$
-Type = NDIS

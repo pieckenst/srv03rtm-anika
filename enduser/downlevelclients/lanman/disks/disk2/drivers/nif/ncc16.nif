@@ -1,5 +1,0 @@
-Model = Tulip NCC-16 Adapter
-Path = ETHERNET\TULIP
-DeviceDriver = NCC16.DOS
-Type = NDIS
-

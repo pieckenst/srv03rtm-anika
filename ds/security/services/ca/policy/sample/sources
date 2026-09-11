@@ -1,5 +1,0 @@
-MINORCOMP=certpsam
-SOURCES=\
-    request.cpp
-
-!include ..\sample.mk

@@ -1,7 +1,0 @@
-
-#ifdef RC_INVOKED
-
-#include "bhver.h"
-#include <common.ver>
-
-#endif

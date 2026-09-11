@@ -1,5 +1,0 @@
-Model = Loopback driver (No hardware)
-Path = PROTOCOL\LOOPBACK
-DeviceDriver = LOOPDRV.OS2
-DeviceName = loopdrv$
-Type = LOOP

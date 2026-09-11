@@ -1,5 +1,0 @@
-Model = 3Com TokenLink Adapter (3C603)
-Path = TOKENRNG\TLNK
-DeviceDriver = TLNK.DOS
-DeviceName = TOKENLINK
-Type = NDIS

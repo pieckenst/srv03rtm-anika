@@ -1,5 +1,0 @@
-MODEL =HP Ethertwist EISA LAN Adapter/32
-PATH = ETHERNET\HPLANE
-DEVICEDRIVER = hplane.dos
-DEVICENAME = hplane
-TYPE = NDIS

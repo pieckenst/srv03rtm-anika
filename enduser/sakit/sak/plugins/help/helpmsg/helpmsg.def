@@ -1,3 +1,0 @@
-; helpmsg.def : Declares the module parameters.
-
-LIBRARY      "helpmsg.dll"

@@ -1,3 +1,0 @@
-; deviceid.def : Declares the module parameters.
-
-LIBRARY      "deviceid.dll"

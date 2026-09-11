@@ -1,3 +1,0 @@
-; appletalksvc.def : Declares the module parameters.
-
-LIBRARY      "appletalksvc_msg.dll"

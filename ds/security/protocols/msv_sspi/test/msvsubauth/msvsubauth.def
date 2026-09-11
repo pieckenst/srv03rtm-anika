@@ -1,7 +1,0 @@
-LIBRARY SUBAUTH
-
-EXPORTS
-    Msv1_0SubAuthenticationRoutine
-    Msv1_0SubAuthenticationRoutineEx
-    Msv1_0SubAuthenticationFilter
-    Msv1_0SubAuthenticationRoutineGeneric

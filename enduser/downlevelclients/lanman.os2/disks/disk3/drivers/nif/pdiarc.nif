@@ -1,5 +1,0 @@
-Model = PureData Arcnet Adapters
-Path = ARCNET\MSARC
-DeviceDriver = MSARC.OS2
-DeviceName = MSARC
-Type = NDIS

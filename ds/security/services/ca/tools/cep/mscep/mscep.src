@@ -1,9 +1,0 @@
-LIBRARY      MSCEP
-
-EXPORTS
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE
-
-	GetExtensionVersion
-	HttpExtensionProc
-	TerminateExtension

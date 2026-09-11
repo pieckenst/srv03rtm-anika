@@ -1,6 +1,0 @@
-Model = Racore 16/4 Token-Ring Adapters
-Path = TOKENRNG\RTR16LM
-DeviceDriver = RTR16LM.OS2
-DeviceName = RTRLM$
-Type = NDIS
-

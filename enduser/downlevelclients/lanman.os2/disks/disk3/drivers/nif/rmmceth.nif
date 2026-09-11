@@ -1,6 +1,0 @@
-Model = Research Machines Ethernet MC Adapter
-Path = ETHERNET\RMLNK
-DeviceDriver = RMMCETH.OS2
-DeviceName = RMETH$
-Type = NDIS
-

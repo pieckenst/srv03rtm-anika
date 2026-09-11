@@ -1,3 +1,0 @@
-SOURCES_SUBDIR=nl
-
-!include ..\sources.inc

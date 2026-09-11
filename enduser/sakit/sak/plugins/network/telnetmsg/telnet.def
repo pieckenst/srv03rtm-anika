@@ -1,3 +1,0 @@
-; telnet.def : Declares the module parameters.
-
-LIBRARY      "telnet.dll"

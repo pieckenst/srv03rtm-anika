@@ -1,8 +1,0 @@
-; Copyright (c) 1997-1999 Microsoft Corporation
-LIBRARY         SCEPROV
-
-EXPORTS
-                DllGetClassObject        PRIVATE
-                DllCanUnloadNow          PRIVATE
-                DllRegisterServer        PRIVATE
-                DllUnregisterServer      PRIVATE

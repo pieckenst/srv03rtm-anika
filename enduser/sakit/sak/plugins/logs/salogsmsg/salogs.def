@@ -1,3 +1,0 @@
-; salogs.def : Declares the module parameters.
-
-LIBRARY      "salogs.dll"

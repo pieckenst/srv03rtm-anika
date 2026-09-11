@@ -1,8 +1,0 @@
-TARGETNAME=
-TARGETPATH=
-TARGETTYPE=NOTARGET
-
-MISCFILES = \
-        saconfig.inf \
-
-SOURCES=

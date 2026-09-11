@@ -1,3 +1,0 @@
-DIRS= diskmonitor \
-    networkmonitor \
-    mof \

@@ -1,3 +1,0 @@
-; salda.def : Declares the module parameters.
-
-LIBRARY      "ChangeLangMsg.dll"

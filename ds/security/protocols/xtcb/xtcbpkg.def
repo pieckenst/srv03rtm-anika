@@ -1,6 +1,0 @@
-LIBRARY         MD5PKG
-EXPORTS
-
-        SpLsaModeInitialize
-        SpUserModeInitialize
-

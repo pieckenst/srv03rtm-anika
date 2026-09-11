@@ -1,8 +1,0 @@
-LIBRARY			NMOLDWB
-
-HEAPSIZE		1024
-
-EXPORTS
-    InitWB
-	RunWB
-    TermWB

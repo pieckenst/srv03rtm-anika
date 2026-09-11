@@ -1,3 +1,0 @@
-SOURCES_SUBDIR=tr
-
-!include ..\sources.inc

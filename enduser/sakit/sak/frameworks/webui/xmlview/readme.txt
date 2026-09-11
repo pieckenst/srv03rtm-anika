@@ -1,1 +1,0 @@
-This is initial implementation of Chameleon UI as Name Space Extension. The information is sent down to the client in XML format (IE4 compatible).

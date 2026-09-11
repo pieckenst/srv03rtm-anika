@@ -1,1 +1,0 @@
-cdb -g -G obj\i386\sspi.exe -noclientpackagecheck -noserverpackagecheck -noimportexport -nomessages -noclientqca -noserverqca -nocheckuserdata -nocheckusertoken -clientflags 0x400 -serverflags 0x400 %*

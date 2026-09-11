@@ -1,6 +1,0 @@
-Model = National Semiconductor SONIC EISA Driver
-Path = ETHERNET\SONIC
-DeviceDriver = NSEISA.OS2
-DeviceName = NSEISA$
-Type = NDIS
-

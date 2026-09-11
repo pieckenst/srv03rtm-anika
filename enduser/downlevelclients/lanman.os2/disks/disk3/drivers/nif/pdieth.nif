@@ -1,5 +1,0 @@
-Model = PureData Ethernet Adapters
-Path = ETHERNET\PUREDATA
-DeviceDriver = PDIETH.OS2
-DeviceName = PDI8023
-Type = NDIS

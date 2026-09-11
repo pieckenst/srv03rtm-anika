@@ -1,3 +1,0 @@
-SOURCES_SUBDIR=sk
-
-!include ..\sources.inc

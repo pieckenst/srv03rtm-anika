@@ -1,5 +1,0 @@
-
-nmevtmsg.h: nmevtmsg.rc
-
-nmevtmsg.rc: nmevtmsg.mc
-	mc -h ..\h $*.mc

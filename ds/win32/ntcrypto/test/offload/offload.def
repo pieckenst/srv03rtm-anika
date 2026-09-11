@@ -1,5 +1,0 @@
-LIBRARY OFFLOAD
-
-EXPORTS
-    OffloadModExpo
-

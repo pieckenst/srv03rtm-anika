@@ -1,6 +1,0 @@
-Model = Intel TokenExpress 16/4 Adapter
-Path  = TOKENRNG\INTELTOK
-DeviceDriver = OLITOK.DOS
-Devicename = OLITOK
-Type = NDIS
-

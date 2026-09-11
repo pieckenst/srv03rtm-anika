@@ -1,6 +1,0 @@
-Model = Ungermann-Bass NIUpc Adapter (PC2030)
-Path = ETHERNET\UBNEI\PC
-DeviceDriver = @LANROOT\DRIVERS\ETHERNET\UBNEI\UBNEI.OS2
-DeviceName = UBNEI
-Type = NDIS
-Mediatype = ETHERNET 

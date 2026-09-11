@@ -1,3 +1,0 @@
-; services.def : Declares the module parameters.
-
-LIBRARY      "services.dll"

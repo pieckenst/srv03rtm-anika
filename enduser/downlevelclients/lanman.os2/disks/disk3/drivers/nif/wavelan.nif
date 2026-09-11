@@ -1,5 +1,0 @@
-Model		= NCR WaveLAN AT & MC Adapters
-Path		= ETHERNET\WAVELAN
-DeviceDriver	= WAVELAN.OS2
-DeviceName      = NCRWVE$
-Type            = NDIS

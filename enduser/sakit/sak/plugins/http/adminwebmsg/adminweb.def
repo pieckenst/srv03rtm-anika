@@ -1,3 +1,0 @@
-; adminweb.def : Declares the module parameters.
-
-LIBRARY      "adminweb.dll"

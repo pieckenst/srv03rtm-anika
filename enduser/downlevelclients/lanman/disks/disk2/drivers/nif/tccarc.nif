@@ -1,6 +1,0 @@
-Model = Thomas-Conrad Arcnet Adapter
-Path = ARCNET\TCCARC
-DeviceDriver = TCCARC.DOS
-DeviceName = TCCARC
-Type = NDIS
-

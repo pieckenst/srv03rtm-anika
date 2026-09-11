@@ -1,3 +1,0 @@
-; httpsh.def : Declares the module parameters.
-
-LIBRARY      "httpsh.dll"

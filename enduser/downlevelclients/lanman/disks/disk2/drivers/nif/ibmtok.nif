@@ -1,5 +1,0 @@
-Model = IBM Token Ring Adapters (All)
-Path = TOKENRNG\IBMTOK
-DeviceDriver = IBMTOK.DOS
-DeviceName = TOKENRING
-Type = NDIS

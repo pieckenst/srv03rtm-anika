@@ -1,3 +1,0 @@
-@echo off
-echo Trying to uninstall existing certsrv...
-sysocmgr /i:certinst.inf /n /u:uninstal.txt

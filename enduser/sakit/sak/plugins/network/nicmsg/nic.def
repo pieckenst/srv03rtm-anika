@@ -1,3 +1,0 @@
-; nic.def : Declares the module parameters.
-
-LIBRARY      "nic.dll"

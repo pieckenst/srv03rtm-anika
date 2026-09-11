@@ -1,3 +1,0 @@
-; log.def : Declares the module parameters.
-
-LIBRARY      "log.dll"

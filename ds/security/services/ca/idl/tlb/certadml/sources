@@ -1,3 +1,0 @@
-CA_RELATIVEROOT=..\..\..
-CA_TARGETNAME0=certadm
-!include ..\typelib.mk

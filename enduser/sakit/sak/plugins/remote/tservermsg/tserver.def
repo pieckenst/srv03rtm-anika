@@ -1,3 +1,0 @@
-; tserver.def : Declares the module parameters.
-
-LIBRARY      "tserver.dll"

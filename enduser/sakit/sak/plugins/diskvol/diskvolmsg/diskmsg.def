@@ -1,3 +1,0 @@
-; diskmsg.def : Declares the module parameters.
-
-LIBRARY      "diskmsg.dll"

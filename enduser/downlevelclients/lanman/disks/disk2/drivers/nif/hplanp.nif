@@ -1,7 +1,0 @@
-
-MODEL =HP LAN Adapter/16+ TP or TL
-PATH = ETHERNET\HPLANP
-DEVICEDRIVER = hplanp.dos
-DEVICENAME = hplanp
-TYPE = NDIS
-

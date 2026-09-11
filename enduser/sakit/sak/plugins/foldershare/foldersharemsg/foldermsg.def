@@ -1,3 +1,0 @@
-; foldermsg.def : Declares the module parameters.
-
-LIBRARY      "foldermsg.dll"

@@ -1,9 +1,0 @@
-; taskctx.def : Declares the module parameters.
-
-LIBRARY      "taskctx.DLL"
-
-EXPORTS
-    DllCanUnloadNow     PRIVATE
-    DllGetClassObject   PRIVATE
-    DllRegisterServer   PRIVATE
-    DllUnregisterServer    PRIVATE

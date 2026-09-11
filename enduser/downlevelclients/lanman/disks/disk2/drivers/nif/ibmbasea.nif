@@ -1,5 +1,0 @@
-Model = IBM Baseband Adapter/A
-Path = BASEBAND\IBMNETA
-DeviceDriver = IBMNETA.DOS
-DeviceName = IBMNETA
-Type = NDIS

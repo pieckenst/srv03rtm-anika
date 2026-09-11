@@ -1,7 +1,0 @@
-; NmCtl1.def : Declares the module parameters.
-
-LIBRARY      "NmChat.DLL"
-
-EXPORTS
-	CreateAppletLoaderInterface
-

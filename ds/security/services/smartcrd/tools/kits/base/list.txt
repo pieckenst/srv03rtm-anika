@@ -1,1 +1,0 @@
-setup.exe,Microsoft Smart Card Base Components,http://www.microsoft.com/security/tech/misf18.htm

@@ -1,5 +1,0 @@
-[implicit_handle(handle_t hello2_IfHandle)]
-interface hello2
-{
-
-}

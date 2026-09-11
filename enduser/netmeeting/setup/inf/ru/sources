@@ -1,3 +1,0 @@
-SOURCES_SUBDIR=ru
-
-!include ..\sources.inc

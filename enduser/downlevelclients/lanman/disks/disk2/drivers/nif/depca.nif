@@ -1,5 +1,0 @@
-Model		= DEC EtherWORKS Adapters (MC, LC, Turbo, DEPCA)
-Path		= ETHERNET\DEPCA
-DeviceDriver	= DEPCA.DOS
-DeviceName	= DEPCA
-Type		= NDIS

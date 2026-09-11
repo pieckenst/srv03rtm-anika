@@ -1,4 +1,0 @@
-DIRS=driver \
-     macutil
-
-OPTIONAL_DIRS=

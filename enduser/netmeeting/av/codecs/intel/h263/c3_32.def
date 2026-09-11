@@ -1,8 +1,0 @@
-
-
-HEAPSIZE        8192
-
-EXPORTS
-	DriverProc
-	DllMain
-

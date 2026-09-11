@@ -1,6 +1,0 @@
- Model = SMC EtherCard PLUS ELITE Series
- Path = ETHERNET\SMCETH
- DeviceDriver = SMCMAC.DOS
- DriverName = SMCMAC$
- Type = NDIS
-

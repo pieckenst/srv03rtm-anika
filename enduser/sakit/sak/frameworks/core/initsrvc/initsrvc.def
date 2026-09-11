@@ -1,9 +1,0 @@
-; initsrvc.def : Declares the module parameters.
-
-LIBRARY      "initsrvc.DLL"
-
-EXPORTS
-    DllCanUnloadNow     PRIVATE
-    DllGetClassObject   PRIVATE
-    DllRegisterServer   PRIVATE
-    DllUnregisterServer    PRIVATE

@@ -1,5 +1,0 @@
-Model = Async NDIS MAC
-Path = ASYNC
-DeviceDriver = ASYMAC.DOS
-DeviceName = !ASYMAC$
-Type = NDIS_SNGL

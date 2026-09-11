@@ -1,1 +1,0 @@
-#define VER_SCHANNEL 1600

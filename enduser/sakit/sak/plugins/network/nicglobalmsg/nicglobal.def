@@ -1,3 +1,0 @@
-; nicglobal.def : Declares the module parameters.
-
-LIBRARY      "nicglobal.dll"
