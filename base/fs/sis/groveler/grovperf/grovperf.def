@@ -1,6 +1,0 @@
-LIBRARY GrovPerf
-
-EXPORTS
-	OpenGrovelerPerformanceData		@1
-	CollectGrovelerPerformanceData	@2
-	CloseGrovelerPerformanceData	@3

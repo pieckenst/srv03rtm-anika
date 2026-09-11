@@ -1,5 +1,0 @@
-; cli.def : Declares the module parameters.
-
-LIBRARY      RsCli.DLL
-
-EXPORTS

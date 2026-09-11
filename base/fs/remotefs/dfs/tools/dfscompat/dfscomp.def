@@ -1,6 +1,0 @@
-LIBRARY
-
-EXPORTS
-
-	CompatibilityCheck
-	DllMain

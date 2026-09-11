@@ -1,6 +1,0 @@
-NAME davsvc.dll
-
-EXPORTS
-     ServiceHandler
-     ServiceMain
-     DllMain

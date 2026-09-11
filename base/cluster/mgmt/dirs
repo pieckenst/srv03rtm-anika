@@ -1,6 +1,0 @@
-DIRS = \
-    Common \
-    ClusCfg \
-    ClusOCM \
-    ClusComp \
-    Component

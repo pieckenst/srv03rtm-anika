@@ -1,8 +1,0 @@
-cf.exe                  sisTools
-refCount.exe            sisTools
-rpget.exe               sisTools
-sisenum.exe             sisTools
-sisSetup.exe            sisTools
-volReparseTest.exe      sisTools
-flink.exe               sisTools
-sisInfo.exe             sisTools

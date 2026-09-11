@@ -1,3 +1,0 @@
-I386_SOURCES= ..\i386\spcrtest.c \
-             ..\i386\parsboot.c
-

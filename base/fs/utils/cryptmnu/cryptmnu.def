@@ -1,5 +1,0 @@
-LIBRARY     CRYPTMNU
-
-EXPORTS
-   DllCanUnloadNow PRIVATE
-   DllGetClassObject PRIVATE

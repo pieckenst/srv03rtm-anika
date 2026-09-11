@@ -1,8 +1,0 @@
-;
-; This is a private placefil used by the ntrk project.
-;
-; See public\sdk\lib\placefil.txt for info about placefil's in general.
-;
-; *** Please keep this alphabetical  ***
-
-csccmd.exe	reskit\bin

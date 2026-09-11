@@ -1,9 +1,0 @@
-LIBRARY PASSTHRU
-
-EXPORTS
-    TestDllGetBootSector
-    TestDllReturnContextAsError
-    TestDllNotEnoughParms
-    TestDllTooManyParms
-    TestDllCauseException
-

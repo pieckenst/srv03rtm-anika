@@ -1,6 +1,0 @@
-LIBRARY CLUSSPRT
-
-EXPORTS
-    BindToClusterSvc
-    UnbindFromClusterSvc
-    PropagateEvents

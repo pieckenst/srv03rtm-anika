@@ -1,9 +1,0 @@
-; Mover.def : Declares the module parameters.
-
-LIBRARY      "RsMover.DLL"
-
-EXPORTS
-    DllCanUnloadNow     PRIVATE
-    DllGetClassObject   PRIVATE
-    DllRegisterServer   PRIVATE
-    DllUnregisterServer PRIVATE

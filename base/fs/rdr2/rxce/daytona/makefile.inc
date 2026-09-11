@@ -1,3 +1,0 @@
-copyforifskit:
-# This is bogus.
-
