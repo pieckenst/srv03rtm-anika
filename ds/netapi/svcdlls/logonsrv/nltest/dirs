@@ -1,5 +1,0 @@
-DIRS = \
-    nlsubr \
-    nltest \
-    nltestrk \
-    setprefdc

@@ -1,6 +1,0 @@
-DIRS= \
-    res \
-    _osu \
-    _oswinnt \
-    _log \
-    server

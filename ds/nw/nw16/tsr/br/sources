@@ -1,5 +1,0 @@
-
-LANGUAGE=br
-ALT_PROJECT_TARGET=$(LANGUAGE)
-
-!include ..\sources.inc

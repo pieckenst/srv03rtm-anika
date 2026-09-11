@@ -1,7 +1,0 @@
-DIRS=           \
-    explib \
-    lib \
-    liclib \
-    pidlib \
-    shortsig \
-    shortsig00

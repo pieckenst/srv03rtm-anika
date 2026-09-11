@@ -1,5 +1,0 @@
-NAME srvsvc.dll
-
-EXPORTS
-    ServiceMain
-    SvchostPushServiceGlobals

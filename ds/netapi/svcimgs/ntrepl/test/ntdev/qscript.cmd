@@ -1,1 +1,0 @@
-for %%x in (%*) do dir \\ntdsdc%%x\sysvol\ntdev.microsoft.com\scripts

@@ -1,6 +1,0 @@
-LIBRARY CRYPTSVC
-
-EXPORTS
-
-    Start
-    ServiceEntry

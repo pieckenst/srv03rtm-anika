@@ -1,6 +1,0 @@
-DIRS=           \
-    debug \
-    cryptdll \
-    lsaitf \
-    wxlpc \
-    sclgnrpc

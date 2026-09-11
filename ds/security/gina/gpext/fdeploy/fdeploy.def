@@ -1,7 +1,0 @@
-LIBRARY         FDEPLOY
-
-EXPORTS
-        DllRegisterServer PRIVATE
-        DllUnregisterServer PRIVATE
-        ProcessGroupPolicyEx
-        GenerateGroupPolicy

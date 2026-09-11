@@ -1,8 +1,0 @@
-
-#ifndef _OSU_TYPES_HXX_INCLUDED
-#define _OSU_TYPES_HXX_INCLUDED
-
-
-#endif  //  _OSU_TYPES_HXX_INCLUDED
-
-

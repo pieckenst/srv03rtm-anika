@@ -1,1 +1,0 @@
-#include "ncpsvc_c.c"

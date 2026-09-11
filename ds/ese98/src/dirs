@@ -1,9 +1,0 @@
-DIRS=\
-    dht \
-    sync \
-    _errstr \
-    _perfctrs \
-    ese \
-    eseperf \
-    _esefile \
-    eseutil

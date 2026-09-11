@@ -1,7 +1,0 @@
-LIBRARY         GPEXT
-
-EXPORTS
-        ProcessGroupPolicy
-
-        DllRegisterServer    PRIVATE
-        DllUnregisterServer  PRIVATE

@@ -1,7 +1,0 @@
-LIBRARY      TEXTSTORE
-
-EXPORTS
-    DllRegisterServer      PRIVATE
-    DllUnregisterServer    PRIVATE
-    DllCanUnloadNow        PRIVATE
-    I_CertDllOpenTestExtStoreProvW

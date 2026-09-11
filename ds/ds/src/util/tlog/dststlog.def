@@ -1,5 +1,0 @@
-LIBRARY TLOG
-
-EXPORTS
-
-    PrintLog

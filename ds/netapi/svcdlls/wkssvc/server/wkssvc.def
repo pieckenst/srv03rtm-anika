@@ -1,5 +1,0 @@
-NAME wkssvc.dll
-
-EXPORTS
-    ServiceMain
-    SvchostPushServiceGlobals

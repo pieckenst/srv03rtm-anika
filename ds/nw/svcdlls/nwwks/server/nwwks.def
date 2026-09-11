@@ -1,5 +1,0 @@
-NAME nwwks.dll
-
-EXPORTS
-    ServiceMain
-    SvchostPushServiceGlobals
