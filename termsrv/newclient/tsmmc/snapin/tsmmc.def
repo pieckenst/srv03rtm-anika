@@ -1,9 +1,0 @@
-; tsmmc.def : Declares the module parameters.
-
-LIBRARY      "mstsmmc.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer PRIVATE

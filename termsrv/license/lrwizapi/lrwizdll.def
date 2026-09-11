@@ -1,5 +1,0 @@
-LIBRARY LRWizDLL
-EXPORTS 
-	GetConnectionType @3
-	IsLicenseServerRegistered @4
-	StartWizard @5

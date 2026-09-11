@@ -1,5 +1,0 @@
-!include ..\sources.inc
-TARGETNAME      = blue_ss
-
-SOURCES         = \
-                ..\blue_ss.rc

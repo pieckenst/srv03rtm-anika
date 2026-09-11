@@ -1,1 +1,0 @@
-installshield version 1.10 is used to create the template MSI

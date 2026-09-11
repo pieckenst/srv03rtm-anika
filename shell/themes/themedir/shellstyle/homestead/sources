@@ -1,5 +1,0 @@
-!include ..\sources.inc
-TARGETNAME      = home_ss
-
-SOURCES         = \
-                ..\home_ss.rc

@@ -1,5 +1,0 @@
-DIRS = \
-    gdiplus_asms    \
-    ctf         \
-	duser       \
-    

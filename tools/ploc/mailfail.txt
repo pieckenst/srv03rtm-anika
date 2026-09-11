@@ -1,6 +1,0 @@
-Pseudo build failed! Please investigate.
-
-Contact NTPSLOC if you need additional assistance.
-
-Thanks 
-NTPSLOC

@@ -1,5 +1,0 @@
-!include ..\sources.inc
-TARGETNAME      = metal_ss
-
-SOURCES         = \
-                ..\metal_ss.rc

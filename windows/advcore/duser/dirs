@@ -1,9 +1,0 @@
-DIRS=\
-    inc         \
-    Util        \
-    Engine      \
-    DirectUI
-
-OPTIONAL_DIRS=\
-    Tools       \
-    DuExts
