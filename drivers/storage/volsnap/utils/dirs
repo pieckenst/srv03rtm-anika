@@ -1,5 +1,0 @@
-DIRS=   vscreate    \
-        vsdelete    \
-        vsinfo      \
-        vsclrda     \
-        vsda

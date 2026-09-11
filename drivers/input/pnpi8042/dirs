@@ -1,3 +1,0 @@
-DIRS=           daytona 
-OPTIONAL_DIRS=  FE      \
-                NEC_98

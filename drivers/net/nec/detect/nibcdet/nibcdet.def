@@ -1,4 +1,0 @@
-LIBRARY         nibcdet
-
-EXPORTS
-                FindAdapterHandler

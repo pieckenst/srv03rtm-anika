@@ -1,5 +1,0 @@
-NAME dnsrslvr.dll
-
-EXPORTS
-    ServiceMain
-    SvchostPushServiceGlobals

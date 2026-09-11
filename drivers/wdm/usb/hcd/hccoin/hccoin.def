@@ -1,5 +1,0 @@
-
-LIBRARY                 HCCOIN.DLL
-
-EXPORTS
-       HCCOIN_Entry

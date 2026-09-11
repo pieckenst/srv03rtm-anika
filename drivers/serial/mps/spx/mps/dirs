@@ -1,3 +1,0 @@
-DIRS = bindrop \
-       io8 \
-       sx

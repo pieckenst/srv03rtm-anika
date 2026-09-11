@@ -1,4 +1,0 @@
-DWORD
-AdsTypeSize(
-    PADSVALUE lpAdsSrcValue
-    );

@@ -1,7 +1,0 @@
-DIRS =  async \
-        async-nm \
-        realport \
-        realport-nm
-
-
-

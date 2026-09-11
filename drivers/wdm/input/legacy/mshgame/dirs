@@ -1,9 +1,0 @@
-DIRS= CONTROLITEMCOLLECTION \
-      MSGAME \
-      SW_WHEEL \
-      SW_EFFCT \
-      GCKERNEL.SYS \
-      HIDSWVD.SYS \
-      SWPIDFLT.DLL \
-      SWPDFLT2.DLL \
-      SWUSBFLT.SYS

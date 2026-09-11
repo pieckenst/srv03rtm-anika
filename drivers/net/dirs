@@ -1,7 +1,0 @@
-DIRS=\
-    irda \
-    ms \
-    nec \
-    netcard \
-    sna \
-    wan

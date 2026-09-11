@@ -1,1 +1,0 @@
-This directory contains early BlackComb code for Kernel Mode Printing and Imaging support.

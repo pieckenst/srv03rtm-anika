@@ -1,7 +1,0 @@
-DIRS=       \
-    hub.pnp \
-    usbser  \
-    usbmass \
-    valueadd \
-    wceusbsh
-

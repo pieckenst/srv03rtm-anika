@@ -1,3 +1,0 @@
-TARGETLIBS=$(DDK_LIB_PATH)\ntoskrnl.lib
-
-I386_SOURCES=i386\porti386.c

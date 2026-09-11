@@ -1,4 +1,0 @@
-DIRS=nibcdet    \
-     nia35det   \
-     r81wdet
-OPTIONAL_DIRS=

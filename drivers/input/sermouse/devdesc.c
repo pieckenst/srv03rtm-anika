@@ -1,1 +1,0 @@
-#include "..\devdesc\devdesc.c"

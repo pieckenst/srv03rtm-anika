@@ -1,7 +1,0 @@
-DIRS=\
-  private\
-  sys\
-  kd\
-  testwmi
-     
-

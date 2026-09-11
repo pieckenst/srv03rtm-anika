@@ -1,7 +1,0 @@
-DIRS=     \
-    usbd  \
-    hcd   \
-    driver \
-    usbutil \
-    usbccgp
-

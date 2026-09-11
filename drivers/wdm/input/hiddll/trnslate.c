@@ -1,1 +1,0 @@
-#include "..\hidparse\trnslate.c"

@@ -1,7 +1,0 @@
-LIBRARY HIDCLASS.SYS
-
-EXPORTS
-    HidRegisterMinidriver
-    HidNotifyPresence
-    DllInitialize   PRIVATE
-    DllUnload       PRIVATE

@@ -1,6 +1,0 @@
-LIBRARY     USBPORT.SYS
-
-EXPORTS
-    DllUnload   PRIVATE
-    USBPORT_RegisterUSBPortDriver
-    USBPORT_GetHciMn

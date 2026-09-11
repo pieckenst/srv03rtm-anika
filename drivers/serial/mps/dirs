@@ -1,8 +1,0 @@
-DIRS = comtrol \
-       cyclades \
-       digi \
-       equinox \
-       eqnupg \
-       moxa{x86} \
-       spx \
-       stln

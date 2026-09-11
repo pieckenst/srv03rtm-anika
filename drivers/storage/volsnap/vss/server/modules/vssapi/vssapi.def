@@ -1,7 +1,0 @@
-LIBRARY VSSAPI.DLL
-
-EXPORTS
-    SimulateSnapshotFreeze @3
-    SimulateSnapshotThaw @4
-    IsVolumeSnapshotted @5
-    VssFreeSnapshotProperties @6

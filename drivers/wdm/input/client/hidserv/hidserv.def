@@ -1,7 +1,0 @@
-LIBRARY HIDSERV
-
-EXPORTS
-        ServiceMain
-	InstallHidserv
-       
-

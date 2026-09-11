@@ -1,5 +1,0 @@
-dirs=\
-  Display\
-  Keypad\
-  Nvram \
-  watchdog

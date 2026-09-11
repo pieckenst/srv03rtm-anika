@@ -1,4 +1,0 @@
-LIBRARY         r81wdet
-
-EXPORTS
-                FindAdapterHandler

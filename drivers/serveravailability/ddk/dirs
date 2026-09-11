@@ -1,6 +1,0 @@
-dirs=\
-  Gui\
-  Display\
-  Keypad\
-  Nvram\
-  Watchdog

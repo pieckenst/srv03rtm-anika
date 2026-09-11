@@ -1,1 +1,0 @@
-sqlscan -m %computername% -v

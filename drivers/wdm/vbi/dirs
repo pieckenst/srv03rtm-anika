@@ -1,4 +1,0 @@
-DIRS=            \
-	cc   \
-	wst{32}  \
-	nabtsfec{32} 

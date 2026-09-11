@@ -1,6 +1,0 @@
-LIBRARY         TSBYUV
-
-HEAPSIZE        128
-
-EXPORTS
-        DriverProc
