@@ -1,3 +1,0 @@
-TARGETTYPE=DYNLINK
-
-!include ..\sources.inc

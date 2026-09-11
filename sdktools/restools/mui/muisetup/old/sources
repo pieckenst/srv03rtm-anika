@@ -1,3 +1,0 @@
-BINPLACE_PLACEFILE=.\placefil.txt
-
-!INCLUDE    ..\sources.inc

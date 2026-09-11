@@ -1,4 +1,0 @@
-dirs=\
-  setup_amd64{amd64}  \
-  setup_x86{x86}  \
-  setup_ia64{ia64} 

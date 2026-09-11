@@ -1,3 +1,0 @@
-suptools.ddf	dump\supporttools
-updversn.vbs	dump\supporttools
-wistream.vbs	dump\supporttools

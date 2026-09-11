@@ -1,3 +1,0 @@
-TARGETTYPE=LIBRARY
-
-!include ..\sources.inc

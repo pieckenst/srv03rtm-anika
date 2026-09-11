@@ -1,7 +1,0 @@
-
-dirs=           \
-  services      \
-  oca_tools     \
-  activex       \
-  msmq          \
-  web

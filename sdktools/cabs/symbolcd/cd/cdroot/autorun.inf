@@ -1,4 +1,0 @@
-[autorun]
-OPEN=SETUP\i386\ShelExec dbg.htm
-[autorun.x86]
-OPEN=SETUP\i386\ShelExec dbg.htm

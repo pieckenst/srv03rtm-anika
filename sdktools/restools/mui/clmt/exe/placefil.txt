@@ -1,3 +1,0 @@
-clmt.exe        mui\valueadd\clmt
-readme.txt      mui\valueadd\clmt
-valueadd.htm    mui\valueadd
