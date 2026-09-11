@@ -32,7 +32,7 @@ SOURCES= \
         ..\ioinit.c   \
         ..\iosubs.c   \
         ..\ioverifier.c \
-        ..\ioPerf.c \
+        ..\ioperf.c \
         ..\loadunld.c \
         ..\lock.c     \
         ..\misc.c     \

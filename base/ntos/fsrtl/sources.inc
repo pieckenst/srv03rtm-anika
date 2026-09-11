@@ -11,22 +11,22 @@ INCLUDES=..;..\..\inc
 
 MSC_WARNING_LEVEL=/W4 /WX
 
-SOURCES=..\DbcsName.c \
-        ..\FastIo.c   \
-        ..\FaultTol.c \
-        ..\FileLock.c \
-        ..\Filter.c   \
-        ..\FiltrCtx.c \
-        ..\FsFilter.c \
-        ..\FsRtlPc.c  \
-        ..\LargeMcb.c \
-        ..\Name.c     \
-        ..\Notify.c   \
-        ..\Oplock.c   \
-        ..\PnP.c      \
-        ..\Unc.c      \
-        ..\Tunnel.c   \
-        ..\StackOvf.c
+SOURCES=..\dbcsname.c \
+        ..\fastio.c   \
+        ..\faulttol.c \
+        ..\filelock.c \
+        ..\filter.c   \
+        ..\filtrctx.c \
+        ..\fsfilter.c \
+        ..\fsrtlpc.c  \
+        ..\largemcb.c \
+        ..\name.c     \
+        ..\notify.c   \
+        ..\oplock.c   \
+        ..\pnp.c      \
+        ..\unc.c      \
+        ..\tunnel.c   \
+        ..\stackovf.c
 
 PRECOMPILED_INCLUDE=..\fsrtlp.h
 PRECOMPILED_PCH=fsrtlp.pch
