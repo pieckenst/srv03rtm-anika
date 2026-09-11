@@ -1,8 +1,0 @@
-############################################################################
-#
-#   Copyright © Microsoft Corporation.  All rights reserved.
-#
-############################################################################
-
-!include ..\sources.inc
-SOURCES_USED=..\sources.inc

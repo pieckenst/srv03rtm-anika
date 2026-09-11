@@ -1,1 +1,0 @@
-cscript hcu.vbs C:\whistler\admin\pchealth\HelpCtr\Service\testwrapper\setest\setest.cab

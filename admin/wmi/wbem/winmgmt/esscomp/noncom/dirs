@@ -1,5 +1,0 @@
-DIRS = \
-    Common   \
-    Utils    \
-    NCObjAPI \
-    NCProv

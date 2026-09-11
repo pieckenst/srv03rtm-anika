@@ -1,7 +1,0 @@
-LIBRARY qmgr
-
-EXPORTS
-        ServiceMain
-        BITSServiceMain
-        DllRegisterServer   PRIVATE
-        DllUnregisterServer PRIVATE

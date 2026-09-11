@@ -1,9 +1,0 @@
-; SAFRCFileDlg.def : Declares the module parameters.
-
-LIBRARY      "SAFRCFileDlg.DLL"
-
-EXPORTS
-	DllCanUnloadNow      	PRIVATE
-	DllGetClassObject    	PRIVATE
-	DllRegisterServer    	PRIVATE
-	DllUnregisterServer	PRIVATE

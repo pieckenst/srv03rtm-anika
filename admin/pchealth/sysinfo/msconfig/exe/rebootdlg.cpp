@@ -1,6 +1,0 @@
-// rebootdlg.cpp : Implementation of CRebootDlg
-#include "stdafx.h"
-#include "rebootdlg.h"
-
-/////////////////////////////////////////////////////////////////////////////
-// CRebootDlg

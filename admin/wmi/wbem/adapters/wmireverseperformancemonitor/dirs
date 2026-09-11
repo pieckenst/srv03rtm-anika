@@ -1,7 +1,0 @@
-DIRS= \
-	WMIAdapter_Messages \
-\
-	WMIAdapter_Refresh \
-\
-	WMIAdapter \
-	WMIReverseAdapter

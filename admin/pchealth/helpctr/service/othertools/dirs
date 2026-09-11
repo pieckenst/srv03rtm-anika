@@ -1,7 +1,0 @@
-DIRS= \
-    SignCode \    
-
-OPTIONAL_DIRS=
-	VerifyHHK \
-	ReformatHHK \
-	SignUtil \

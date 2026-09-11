@@ -1,5 +1,0 @@
-DIRS= \
-	escalation \
-    interaction \
-    redist \
-

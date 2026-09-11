@@ -1,1 +1,0 @@
-!INCLUDE $(_NTDRIVE)$(_NTROOT)\WMI\COMMON\makefile.cmn

@@ -1,9 +1,0 @@
-DIRS= \
-    Manager \
-	FTS_lib \
-	Wrapper_FTS \
-	Wrapper_Keyword \
-	NetSearchWrapper \
-
-OPTIONAL_DIRS=
-	testwrapper \

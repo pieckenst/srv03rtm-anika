@@ -1,9 +1,0 @@
-; msinfo32.def : Declares the module parameters.
-
-LIBRARY      "msinfo32.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

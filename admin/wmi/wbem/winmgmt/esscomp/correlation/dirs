@@ -1,7 +1,0 @@
-
-
-DIRS = \
-        tmplprov \
-        trnsprov \
-        updprov \
-        scenarios \

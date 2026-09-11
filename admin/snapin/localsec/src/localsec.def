@@ -1,5 +1,0 @@
-LIBRARY   	"localsec.dll"
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE

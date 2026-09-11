@@ -1,5 +1,0 @@
-DIRS= \
-	FrameDyn \
-	PSSTools \
-	VC7 \
-	license\

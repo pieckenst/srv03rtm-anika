@@ -1,5 +1,0 @@
-EXPORTS
-    DllInstallBITSMgr
-    DllUninstallBITSMgr
-    DllInstallBITSIsapi
-    DllUninstallBITSIsapi

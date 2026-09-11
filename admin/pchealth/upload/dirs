@@ -1,6 +1,0 @@
-DIRS= Common \
-	Client \
-	Server \
-	Admin \
-
-OPTIONAL_DIRS= 

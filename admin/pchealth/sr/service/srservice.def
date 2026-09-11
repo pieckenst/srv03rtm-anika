@@ -1,7 +1,0 @@
-LIBRARY   SRSVC
-EXPORTS
-   DllMain   @1
-   ServiceMain   @2
-
-
-

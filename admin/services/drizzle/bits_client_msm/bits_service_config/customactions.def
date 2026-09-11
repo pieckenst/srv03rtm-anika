@@ -1,9 +1,0 @@
-LIBRARY CustomActions
-
-EXPORTS
-        DllRegisterServer   PRIVATE
-        DllUnregisterServer PRIVATE
-        BitsSetupAction
-        BitsRemoveAction
-        BitsRenameAction
-

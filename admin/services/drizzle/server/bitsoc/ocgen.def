@@ -1,7 +1,0 @@
-LIBRARY bitsoc
-
-EXPORTS
-
-    OcEntry
-
-

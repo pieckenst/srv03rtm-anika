@@ -1,5 +1,0 @@
-DIRS = \
-       comptree \
-       parser    \
-       dll        \
-#       pc \

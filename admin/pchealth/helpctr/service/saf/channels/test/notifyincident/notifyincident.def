@@ -1,9 +1,0 @@
-; NotifyIncident.def : Declares the module parameters.
-
-LIBRARY      "NotifyIncident.DLL"
-
-EXPORTS
-	DllCanUnloadNow      PRIVATE
-	DllGetClassObject    PRIVATE
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE

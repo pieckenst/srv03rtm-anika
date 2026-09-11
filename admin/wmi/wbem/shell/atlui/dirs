@@ -1,6 +1,0 @@
-DIRS= \
-    Common \
-    MMFUtil \
-    WMICntl \
-    CMProps \
-    ServDeps

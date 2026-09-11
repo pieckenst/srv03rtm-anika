@@ -1,6 +1,0 @@
-// PageIni.cpp : Implementation of CPageIni
-#include "stdafx.h"
-#include "PageRegistry.h"
-
-/////////////////////////////////////////////////////////////////////////////
-// CPageIni

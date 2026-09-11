@@ -1,4 +1,0 @@
-LIBRARY         jobfldr
-EXPORTS
-    DllGetClassObject  PRIVATE
-    DllCanUnloadNow  PRIVATE

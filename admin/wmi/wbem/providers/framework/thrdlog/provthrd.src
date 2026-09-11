@@ -1,8 +1,0 @@
-; (C) 1999 Microsoft Corporation 
-
-LIBRARY   PROVTHRD
-
-HEAPSIZE  1024
-
-
-EXPORTS

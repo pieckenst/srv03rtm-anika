@@ -1,2 +1,0 @@
-I386_SOURCES= ..\i386\initx86.c \
-             ..\i386\parsboot.c

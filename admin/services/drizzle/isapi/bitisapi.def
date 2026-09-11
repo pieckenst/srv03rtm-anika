@@ -1,4 +1,0 @@
-LIBRARY bgcisapi
-EXPORTS
-	HttpFilterProc
-	GetFilterVersion
