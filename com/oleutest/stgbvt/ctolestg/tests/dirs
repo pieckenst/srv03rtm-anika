@@ -1,5 +1,0 @@
-DIRS= \
-            stgbase
-
-OPTIONAL_DIRS=
-

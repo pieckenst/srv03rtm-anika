@@ -1,4 +1,0 @@
-LIBRARY         stgbase
-EXPORTS
-    DllMain
-    RunTest

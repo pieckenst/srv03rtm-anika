@@ -1,6 +1,0 @@
-LIBRARY RPCSS
-
-EXPORTS
-  ServiceMain
-  GetRPCSSInfo
-  CoGetComCatalog PRIVATE

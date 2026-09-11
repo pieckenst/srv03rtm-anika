@@ -1,3 +1,0 @@
-[ implicit_handle (handle_t NsiSvrBinding),strict_context_handle] interface NSiTypes
-{
-}

@@ -1,8 +1,0 @@
-[
-    explicit_handle
-]
-interface ExtendedError
-{
-    typedef [encode, decode] ExtendedErrorInfoPtr;
-}
-	

@@ -1,8 +1,0 @@
-
-
-[ implicit_handle(handle_t any_handle) ] interface IOrCallback
-{
-    [comm_status, fault_status] UseProtseq();
-    [comm_status, fault_status] GetCustomProtseqInfo();
-    [async, comm_status, fault_status] UpdateResolverBindings();
-}

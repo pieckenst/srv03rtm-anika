@@ -1,7 +1,0 @@
-DIRS= \
-      bttncur	\
-      ole2ui	\
-      gizmobar	\
-      outline
-
-

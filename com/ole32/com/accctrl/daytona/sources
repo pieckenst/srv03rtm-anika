@@ -1,5 +1,0 @@
-MAJORCOMP   = daytona
-MINORCOMP   = com
-
-!include ..\..\..\daytona.inc
-!include ..\sources.inc

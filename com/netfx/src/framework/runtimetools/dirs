@@ -1,5 +1,0 @@
-DIRS = \
-  LicenseCompiler \
-  InstallUtil \
-  InstallUtilLib \
-
