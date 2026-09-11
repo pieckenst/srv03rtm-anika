@@ -1,6 +1,0 @@
-DIRS= \
-    types    \
-    lib      \
-    dll      \
-    exe      
-

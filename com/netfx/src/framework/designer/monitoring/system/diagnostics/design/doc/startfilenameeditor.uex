@@ -1,8 +1,0 @@
-<docs>
-   <doc for="StartFileNameEditor">
- <summary>
-     Editor for the ProcessStartInfo.FileName property.
- </summary>
-   </doc>
-</docs>
-

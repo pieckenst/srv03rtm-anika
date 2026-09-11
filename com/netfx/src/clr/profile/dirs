@@ -1,7 +1,0 @@
-DIRS =  Counters    \
-        ee          \
-        Profiler    \
-        PerfMonDll  \
-	PerfCounter \
-        mscorcap    \
-        mscorilc 

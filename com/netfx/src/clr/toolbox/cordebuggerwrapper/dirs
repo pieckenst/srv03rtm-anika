@@ -1,7 +1,0 @@
-# dependencies in the CorDebuggerWrapper directory:
-# Debugging depends on CORDBLib
-
-dirs  =                 \
-        CORDBLib        \
-        Debugging
-

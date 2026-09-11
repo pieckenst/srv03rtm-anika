@@ -1,8 +1,0 @@
-<docs>
-   <doc for="NameNode.ParseName">
- <summary>
-     Parses given name and checks it validity
- </summary>
-   </doc>
-</docs>
-

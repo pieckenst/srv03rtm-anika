@@ -1,2 +1,0 @@
-mscoree.dll .
-mscoree.pdb .

@@ -1,2 +1,0 @@
-We include msvcrt.lib here so that strike is linked against msvcrt.dll
-instead of msvcrt70.dll.

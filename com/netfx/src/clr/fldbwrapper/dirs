@@ -1,8 +1,0 @@
-# These build for ALL Platforms
-DIRS = commonlib \
-       CustomAction \
-       fxsetuplib \
-       redist \
-       sdk \
-       ocm \
-       simplewrapper \

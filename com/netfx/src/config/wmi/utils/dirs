@@ -1,4 +1,0 @@
-DIRS=   \
-	wmisec       \
-	wminet_utils \
-	upgdreg \

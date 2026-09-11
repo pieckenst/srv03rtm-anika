@@ -1,4 +1,0 @@
-TGT_WCE     = 1
-TGTCPU      = SH3
-
-!include "makefile.all"

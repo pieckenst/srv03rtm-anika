@@ -1,2 +1,0 @@
-AMD64_SOURCES=amd64\except.asm \
-              amd64\misc.c

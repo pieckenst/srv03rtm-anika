@@ -1,4 +1,0 @@
-
-# These build for BOTH CE and NT/95
-DIRS =  DLL 
-

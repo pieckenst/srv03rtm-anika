@@ -1,4 +1,0 @@
-DIRS_NT = \
-    VersionedDLL \
-    netfxsbs \
-    hkffile

@@ -1,8 +1,0 @@
-interface SensApi
-{
-    [comm_status, fault_status] RPC_IsNetworkAlive();
-
-    [comm_status, fault_status] RPC_IsDestinationReachableW();
-
-    [comm_status, fault_status] RPC_IsDestinationReachableA();
-}
