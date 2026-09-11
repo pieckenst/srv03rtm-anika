@@ -1,3 +1,0 @@
-i386_SOURCES=..\makebt32.c  \
-             ..\makebt32.rc
-

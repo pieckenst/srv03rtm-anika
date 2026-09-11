@@ -1,6 +1,0 @@
-DIRS =	publish \
-        doskrnl \
-	dev \
-	lib \
-	cmd \
-	redir 

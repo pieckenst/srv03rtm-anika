@@ -1,7 +1,0 @@
-LIBRARY
-
-EXPORTS
-        ServiceMain
-        DllRegisterServer PRIVATE
-        DllUnregisterServer PRIVATE
-

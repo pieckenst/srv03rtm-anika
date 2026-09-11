@@ -1,4 +1,0 @@
-ALT_PROJECT=tr
-ALT_PROJECT_TARGET=tr
-
-!include ..\sources.inc

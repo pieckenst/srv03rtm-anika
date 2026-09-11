@@ -1,8 +1,0 @@
-!include ..\..\..\cobra.mk
-
-!include $(COBRA_ROOT)\modules\sysmod\sources.inc
-
-# target
-TARGETNAME=sysmod_a
-TARGETTYPE=DYNLINK
-

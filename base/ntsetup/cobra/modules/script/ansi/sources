@@ -1,8 +1,0 @@
-!include ..\..\..\cobra.mk
-
-!include $(COBRA_ROOT)\modules\script\sources.inc
-
-# target
-TARGETNAME=script_a
-TARGETTYPE=DYNLINK
-

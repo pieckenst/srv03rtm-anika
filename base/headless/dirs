@@ -1,9 +1,0 @@
-DIRS=\
-     lib        \
-     cmd
-
-OPTIONAL_DIRS=\
-     test       \
-     watcher    \
-     tcsrv      
-

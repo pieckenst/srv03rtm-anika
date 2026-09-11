@@ -1,8 +1,0 @@
-# Copyright (c) Microsoft Corporation
-
-TARGETPATH=obj
-TARGETTYPE=PROGRAM
-TARGETNAME=
-SOURCES=
-UMAPPL=toverflow
-UMTYPE=console

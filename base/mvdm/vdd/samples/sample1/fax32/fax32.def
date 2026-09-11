@@ -1,6 +1,0 @@
-LIBRARY VDD
-
-EXPORTS
-    FAXVDDDispatch
-    FAXVDDTerminateVDM
-    FAXVDDRegisterInit

@@ -1,8 +1,0 @@
-!include ..\..\..\cobra.mk
-
-!include $(COBRA_ROOT)\app\common\sources.inc
-
-# target
-TARGETNAME=appcommona
-TARGETTYPE=LIBRARY
-

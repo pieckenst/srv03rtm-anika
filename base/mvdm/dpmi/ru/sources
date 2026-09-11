@@ -1,4 +1,0 @@
-ALT_PROJECT=ru
-ALT_PROJECT_TARGET=ru
-
-!include ..\sources.inc

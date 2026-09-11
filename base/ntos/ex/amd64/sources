@@ -1,3 +1,0 @@
-AMD64_SOURCES=..\amd64\hifreqlk.asm \
-              ..\amd64\intrlock.asm \
-              ..\amd64\wowinfo.c

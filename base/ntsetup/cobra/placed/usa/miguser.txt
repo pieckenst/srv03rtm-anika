@@ -1,3 +1,0 @@
-[Strings]
-@*: This is the location of Quick Launch. Please localize to match your localized system directory name.
-QuickLaunchDir = "%csidl_appdata%\Microsoft\Internet Explorer\Quick Launch"

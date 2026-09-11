@@ -1,7 +1,0 @@
-LIBRARY wowfax
-
-EXPORTS
-    DrvEnableDriver
-    DrvDisableDriver
-    DrvQueryDriverInfo
-

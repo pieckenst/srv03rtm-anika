@@ -1,7 +1,0 @@
-DIRS=\
-  emshello  \
-  emsfile   \
-  emsstress \
-  emslock   \
-  emsecho
-

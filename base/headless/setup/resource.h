@@ -1,1 +1,0 @@
-#define IDD_ABORTDIALOG 100

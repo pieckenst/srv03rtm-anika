@@ -1,5 +1,0 @@
-DIRS=	keyboard\
-	sound	\
-	comm	\
-	display	\
-	mouse

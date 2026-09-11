@@ -1,8 +1,0 @@
-!include ..\..\..\cobra.mk
-
-!include $(COBRA_ROOT)\modules\unctrans\sources.inc
-
-# target
-TARGETNAME=unctrn_a
-TARGETTYPE=DYNLINK
-
