@@ -1,9 +1,0 @@
-; itngram_J.def : Declares the module parameters.
-
-LIBRARY      "itngram_J.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

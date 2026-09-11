@@ -1,8 +1,0 @@
-LIBRARY     ICWCONN
-
-EXPORTS
-    GetICWCONNVersion
-    DllGetClassObject    PRIVATE
-    DllCanUnloadNow    PRIVATE
-    DllRegisterServer    PRIVATE
-    DllUnregisterServer    PRIVATE

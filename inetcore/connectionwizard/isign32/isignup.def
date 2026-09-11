@@ -1,8 +1,0 @@
-SECTIONS
-   
-EXPORTS
-    LibMain
-    Signup
-    AutoDialSignup=AutoDialSignupA
-    AutoDialLogon=AutoDialLogonA
-    IEAKProcessISP=IEAKProcessISPA

@@ -1,3 +1,0 @@
-DIRS=engine	lexicon	voices
-
-OPTIONAL_DIRS= regvoices tools

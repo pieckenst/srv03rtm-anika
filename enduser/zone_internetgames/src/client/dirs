@@ -1,5 +1,0 @@
-DIRS= \
-    shell \
-    games \
-    platform \
-    resources \

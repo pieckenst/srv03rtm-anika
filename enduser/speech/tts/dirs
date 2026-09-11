@@ -1,7 +1,0 @@
-DIRS=msttsdrv
-
-OPTIONAL_DIRS = common\
-truetalk \
-prompts \
-tools \
-ms_entropic

@@ -1,7 +1,0 @@
-; ZNet.def : Declares the module parameters.
-
-LIBRARY      "ZNetM.DLL"
-
-EXPORTS
-	DllCanUnloadNow     @1 PRIVATE
-	DllGetClassObject   @2 PRIVATE

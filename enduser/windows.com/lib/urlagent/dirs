@@ -1,2 +1,0 @@
-DIRS= Unicode
-OPTIONAL_DIRS= AnsiTest{i386} UnicodeTest

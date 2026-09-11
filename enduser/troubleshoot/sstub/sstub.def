@@ -1,9 +1,0 @@
-; SStub.def : Declares the module parameters.
-
-LIBRARY      "SStub.DLL"
-
-EXPORTS
-	DllCanUnloadNow      PRIVATE
-	DllGetClassObject    PRIVATE
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE

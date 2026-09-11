@@ -1,3 +1,0 @@
-; Sysinfomsg.def : Declares the module parameters.
-
-LIBRARY      "sysinfomsg.dll"

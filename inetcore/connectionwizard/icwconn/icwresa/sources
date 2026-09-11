@@ -1,8 +1,0 @@
-# NOTE THIS IS USED TO GENERATE THE ANSI VERSION OF ICWRES.DLL
-
-BINPLACE_PLACEFILE=.\placefil.txt
-NOT_UNICODE=1
-
-!include ..\ressrcs.inc
-
-SOURCES_USED = $(SOURCES_USED) ..\ressrcs.inc

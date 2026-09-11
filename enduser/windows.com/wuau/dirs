@@ -1,8 +1,0 @@
-DIRS= 			\
-	irnotif		\
-	wuaulib		\
-	wuauserv	\
-	wuaueng     \
-	wuauclt	    \
-#	wuaucpl     \
-	help

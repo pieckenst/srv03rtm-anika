@@ -1,8 +1,0 @@
-DIRS = \
-    bn \
-    msinfo \
-    other \
-    tshoot   \
-    Sniffpol  \
-    sstub  \
-    setupfiles

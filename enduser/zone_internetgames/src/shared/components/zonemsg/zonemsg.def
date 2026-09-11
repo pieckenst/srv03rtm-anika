@@ -1,5 +1,0 @@
-LIBRARY	zonemsg
-
-DESCRIPTION	'Zone Event Log'
- 	
-EXPORTS

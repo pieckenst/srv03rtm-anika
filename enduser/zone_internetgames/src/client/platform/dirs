@@ -1,4 +1,0 @@
-DIRS= \
-    zclient \
-    launch  \
-    ocdll   \

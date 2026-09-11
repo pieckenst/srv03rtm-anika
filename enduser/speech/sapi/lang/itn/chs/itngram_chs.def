@@ -1,9 +1,0 @@
-; itngram_CHS.def : Declares the module parameters.
-
-LIBRARY      "itngram_CHS.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

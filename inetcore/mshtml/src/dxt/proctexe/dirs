@@ -1,5 +1,0 @@
-DIRS =      \
-    rsrc    \
-    inc     \
-    src     \
-    dll

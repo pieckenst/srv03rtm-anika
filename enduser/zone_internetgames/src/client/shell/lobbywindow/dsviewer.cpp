@@ -1,8 +1,0 @@
-// EventSpy.cpp : Implementation of CEventSpy
-#include "stdafx.h"
-#include "DSViewer.h"
-
-/////////////////////////////////////////////////////////////////////////////
-// CDSViewer
-
-

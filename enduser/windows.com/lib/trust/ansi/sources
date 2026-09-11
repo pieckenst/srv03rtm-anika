@@ -1,5 +1,0 @@
-# IU_UTIL_LIB_DIR=..\..\ansi\obj
-
-WUBLDTYPE=ansi
-
-!include ..\sources.inc

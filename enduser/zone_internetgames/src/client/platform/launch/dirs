@@ -1,7 +1,0 @@
-DIRS= \
-    spades    \
-    hearts    \
-    backgammon    \
-    reversi    \
-    checkers    \
-

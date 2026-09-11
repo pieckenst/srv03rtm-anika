@@ -1,3 +1,0 @@
-makefile.icw			dump\icwcab
-icwscrpt.exe            dump\icwcab
-icw.inf                 dump\icwcab
