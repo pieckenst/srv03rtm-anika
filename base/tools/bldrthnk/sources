@@ -1,9 +1,0 @@
-TARGETNAME=bldrthnk
-TARGETPATH=obj
-TARGETTYPE=PROGRAM
-
-USE_MSVCRT=1
-
-SOURCES=bldrthnk.c bldrthnk.rc
-
-UMTYPE=console

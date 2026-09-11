@@ -1,1 +1,0 @@
-#define IDC_PROGRESS_BAR_LABEL          1200

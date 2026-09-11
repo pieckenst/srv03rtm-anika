@@ -1,9 +1,0 @@
-
-DIRS=supplib \
-     common  \
-     base    \
-     net     \
-     main    \
-     oc      \
-     oem     \
-     exe

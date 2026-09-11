@@ -1,2 +1,0 @@
-ProductName       =    Windows XP Professional
-DialogCaption     =    Windows XP Setup

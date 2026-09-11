@@ -1,6 +1,0 @@
-
-TARGETNAME=RSA32
-PUBLISH_PATH=$(DS_LIB_DEST)
-
-!include ..\sources.inc
-

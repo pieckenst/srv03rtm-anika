@@ -1,3 +1,0 @@
-# Copyright (c) Microsoft Corporation
-VERSION=1
-!include ..\sources.inc 

@@ -1,1 +1,0 @@
-USE_MSVCRT=1

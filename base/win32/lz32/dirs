@@ -1,4 +1,0 @@
-DIRS=	winlza\
-	tools \
-	lz32_forwarder \
-	embedded

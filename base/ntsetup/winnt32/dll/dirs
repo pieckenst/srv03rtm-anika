@@ -1,4 +1,0 @@
-DIRS=\
-    AppCompatTest \
-    ansi{x86} \
-    unicode

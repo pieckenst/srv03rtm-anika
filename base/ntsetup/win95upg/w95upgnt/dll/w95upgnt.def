@@ -1,5 +1,0 @@
-LIBRARY W95UPGNT
-EXPORTS     W95UpgNt_Migrate
-            W95UpgNt_FileRemoval
-
-

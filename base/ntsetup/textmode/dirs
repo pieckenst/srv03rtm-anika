@@ -1,7 +1,0 @@
-DIRS= \
-    inc \
-    user \
-    spddlang \
-    kernel \
-    cmdcons \
-    winnt

@@ -1,7 +1,0 @@
-DIRS = euc_db    \
-       gb18030   \
-       iscii     \
-       iso_2022  \
-       sna_db    \
-       nls \
-       tools 

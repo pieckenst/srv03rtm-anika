@@ -1,5 +1,0 @@
-# Copyright (c) Microsoft Corporation
-
-DIRS= \
- dll \
- sys32proxyman

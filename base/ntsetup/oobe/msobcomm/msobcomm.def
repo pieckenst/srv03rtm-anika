@@ -1,8 +1,0 @@
-LIBRARY         MSOBCOMM.DLL
-;DESCRIPTION     'Microsoft Out of Box Experience Communication Manager Control'
-
-EXPORTS
-    DllGetClassObject    PRIVATE
-    DllCanUnloadNow      PRIVATE
-    DllRegisterServer    PRIVATE
-    DllUnregisterServer  PRIVATE

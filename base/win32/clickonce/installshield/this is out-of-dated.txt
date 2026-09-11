@@ -1,1 +1,0 @@
-Use checked-in msi (and build script) under clickonce\msi instead.

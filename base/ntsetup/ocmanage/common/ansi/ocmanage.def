@@ -1,8 +1,0 @@
-LIBRARY OCMGR_A
-
-EXPORTS
-
-    OcInitialize
-    OcGetWizardPages
-    OcCreateOcPage
-    OcCreateSetupPage

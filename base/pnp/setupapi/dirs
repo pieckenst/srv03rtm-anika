@@ -1,6 +1,0 @@
-DIRS=\
-    sputils \
-    unicode \
-    wowreg32
-
-

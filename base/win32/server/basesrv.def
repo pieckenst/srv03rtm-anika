@@ -1,7 +1,0 @@
-LIBRARY BASESRV
-
-EXPORTS
-    ServerDllInitialization
-    BaseSetProcessCreateNotify
-    BaseSrvNlsLogon
-    BaseSrvNlsUpdateRegistryCache

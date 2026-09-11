@@ -1,7 +1,0 @@
-!include ..\hwdb.mk
-
-# target
-TARGETNAME=hwdblib
-TARGETTYPE=LIBRARY
-
-

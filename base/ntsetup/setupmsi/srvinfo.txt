@@ -1,3 +1,0 @@
-ProductName       =    Microsoft Windows Server 2003
-DialogCaption     =    Microsoft Windows Server 2003 Setup
-

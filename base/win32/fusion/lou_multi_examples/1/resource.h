@@ -1,2 +1,0 @@
-#define FOO_MANIFEST_ID     123
-#define ANOTHER_MANIFEST_ID 12345

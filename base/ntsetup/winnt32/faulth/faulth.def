@@ -1,5 +1,0 @@
-LIBRARY faulth
-
-EXPORTS
-    FAULTHCreate
-    FAULTHDelete

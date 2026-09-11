@@ -1,7 +1,0 @@
-LIBRARY OCSBS
-
-EXPORTS
-
-    OcEntry
-
-

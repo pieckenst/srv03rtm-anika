@@ -1,5 +1,0 @@
-#
-# domipsinf
-#
-
-doeachmipsinf:: 

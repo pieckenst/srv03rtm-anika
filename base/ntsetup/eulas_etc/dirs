@@ -1,5 +1,0 @@
-DIRS=\
-    dtconly \
-    entonly \
-    blaonly \
-    sbsonly

@@ -1,8 +1,0 @@
-DIRS=\
-    initnt   \
-    commonnt \
-    merge    \
-    rulehlpr \
-    ntui     \
-    migmain  \
-    dll

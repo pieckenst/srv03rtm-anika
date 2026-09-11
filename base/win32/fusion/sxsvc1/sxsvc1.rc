@@ -1,8 +1,0 @@
-/*
-Copyright (c) Microsoft Corporation
-*/
- 
-#include "windows.h"
-#include "resource.h"
-
-SYSTEM32_MANIFEST_ID RT_MANIFEST system32.man
