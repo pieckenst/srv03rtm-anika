@@ -1,7 +1,0 @@
-LIBRARY 		VFWWDM32
-EXPORTS
-	   DriverProc
-	   DllMain
-	   VfwWdm          
-;	   VFWWDMExtension
-

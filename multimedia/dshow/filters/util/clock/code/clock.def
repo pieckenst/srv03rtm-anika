@@ -1,7 +1,0 @@
-LIBRARY		CLOCK
-PROTMODE
-EXPORTS
-                DllGetClassObject PRIVATE
-		DllCanUnloadNow PRIVATE
-
-

@@ -1,7 +1,0 @@
-LIBRARY xdplay8
-EXPORTS
-	XDirectPlay8Initialize
-	XDirectPlay8Cleanup
-	XDirectPlay8Create
-	XDirectPlay8AddressCreate
-	XDirectPlay8DoWork

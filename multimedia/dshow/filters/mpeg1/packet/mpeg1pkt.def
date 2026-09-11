@@ -1,7 +1,0 @@
-LIBRARY		Mpeg1Pkt
-PROTMODE
-EXPORTS
-                DllGetClassObject PRIVATE
-		DllCanUnloadNow PRIVATE
-
-

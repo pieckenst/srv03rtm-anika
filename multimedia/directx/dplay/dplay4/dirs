@@ -1,8 +1,0 @@
-DIRS=protocol \
-     dplobby  \
-     dplay    \
-     wsock    \
-     serial   \
-     dplaysvr \
-     
-OPTIONAL_DIRS=tools

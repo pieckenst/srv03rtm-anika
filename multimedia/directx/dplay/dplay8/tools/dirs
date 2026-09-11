@@ -1,3 +1,0 @@
-DIRS= dp8log \
-      dp8sim \
-      parsers

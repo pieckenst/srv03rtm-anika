@@ -1,8 +1,0 @@
-LIBRARY DPVOICE
-
-EXPORTS
-  DllGetClassObject PRIVATE
-  DllCanUnloadNow PRIVATE
-  DllRegisterServer PRIVATE
-  DllUnregisterServer PRIVATE
-  DirectPlayVoiceCreate	@1

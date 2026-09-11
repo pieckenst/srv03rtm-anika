@@ -1,7 +1,0 @@
-ALT_PROJECT_TARGET = .
-
-USE_STL=1
-
-C_DEFINES = $(C_DEFINES) 
-
-!include ..\..\sources.inc

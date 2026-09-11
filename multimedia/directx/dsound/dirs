@@ -1,5 +1,0 @@
-DIRS=dsound \
-     dsound3d \
-     \
-     dsdmoprp \
-     dsvxd{386}

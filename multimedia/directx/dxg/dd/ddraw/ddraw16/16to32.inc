@@ -1,2 +1,0 @@
-APILOGSL  macro   argName
-endm

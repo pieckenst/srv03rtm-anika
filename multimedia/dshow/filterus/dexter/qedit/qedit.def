@@ -1,6 +1,0 @@
-LIBRARY         QEdit
-EXPORTS
-		DllGetClassObject    =QEDIT_DllGetClassObject   PRIVATE
-		DllCanUnloadNow      =QEDIT_DllCanUnloadNow     PRIVATE
-		DllRegisterServer    =QEDIT_DllRegisterServer   PRIVATE
-		DllUnregisterServer  =QEDIT_DllUnregisterServer PRIVATE

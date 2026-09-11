@@ -1,9 +1,0 @@
-; AP.def : Declares the module parameters.
-
-LIBRARY      "VMRAllocPresenter.DLL"
-
-EXPORTS
-	DllCanUnloadNow        PRIVATE
-	DllGetClassObject      PRIVATE
-	DllRegisterServer      PRIVATE
-	DllUnregisterServer    PRIVATE

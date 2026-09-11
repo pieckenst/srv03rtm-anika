@@ -1,6 +1,0 @@
-LIBRARY MSRGACM
-
-EXPORTS
-  DllGetClassObject PRIVATE
-  DllCanUnloadNow PRIVATE
-  DllMain PRIVATE

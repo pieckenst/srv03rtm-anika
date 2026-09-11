@@ -1,6 +1,0 @@
-; Copyright (c) 1998 Microsoft Corporation
-LIBRARY dmusic32.dll
-
-EXPORTS
-    EnumLegacyDevices
-    CreateCDirectMusicEmulatePort

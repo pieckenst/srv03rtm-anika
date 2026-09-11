@@ -1,3 +1,0 @@
-DIRS = win9x{32} daytona
-
-OPTIONAL_DIRS = wince

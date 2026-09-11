@@ -1,4 +1,0 @@
-LIBRARY MCISEQ
-
-EXPORTS
-    DriverProc

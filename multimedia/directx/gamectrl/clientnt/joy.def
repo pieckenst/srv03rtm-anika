@@ -1,8 +1,0 @@
-LIBRARY         JOY
-
-STACKSIZE      4096,1024
-
-EXPORTS
-	CPlApplet	@1
-	ShowJoyCPL	@2
-

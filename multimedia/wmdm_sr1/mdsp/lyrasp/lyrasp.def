@@ -1,9 +1,0 @@
-; MsHDSP.def : Declares the module parameters.
-
-LIBRARY      "LyraSP.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

@@ -1,6 +1,0 @@
-LIBRARY MSGVACM
-
-EXPORTS
-  DllGetClassObject PRIVATE
-  DllCanUnloadNow PRIVATE
-  DllMain PRIVATE

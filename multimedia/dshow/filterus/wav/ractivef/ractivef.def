@@ -1,6 +1,0 @@
-LIBRARY		RActiveF.AX
-PROTMODE
-EXPORTS
-           DllGetClassObject  PRIVATE
-DllCanUnloadNow  PRIVATE
-

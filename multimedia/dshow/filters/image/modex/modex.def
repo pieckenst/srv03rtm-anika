@@ -1,7 +1,0 @@
-
-LIBRARY         Modex
-PROTMODE
-EXPORTS
-                DllGetClassObject   PRIVATE
-		DllCanUnloadNow PRIVATE
-

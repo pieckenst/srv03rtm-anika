@@ -1,3 +1,0 @@
-!include ..\..\ntd3d.mk
-!include ..\sources.inc
-

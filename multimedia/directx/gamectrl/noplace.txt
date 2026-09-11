@@ -1,4 +1,0 @@
-;
-;   This is a deliberately empty text file used to redirect binplace to dump 
-;   for specific varients of a build
-;

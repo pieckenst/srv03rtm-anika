@@ -1,5 +1,0 @@
-SECTIONS
-    .sdata READ SHARED
-    
-EXPORTS
-	GetSwHalProvider

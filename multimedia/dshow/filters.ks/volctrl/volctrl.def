@@ -1,5 +1,0 @@
-LIBRARY         volctrl.dll
-PROTMODE
-EXPORTS
-	DllGetClassObject  PRIVATE
-DllCanUnloadNow  PRIVATE

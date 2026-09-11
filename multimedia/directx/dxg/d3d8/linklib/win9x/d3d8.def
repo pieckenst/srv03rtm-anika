@@ -1,5 +1,0 @@
-EXPORTS
-    Direct3DCreate8
-    ValidateVertexShader
-    ValidatePixelShader
-    D3D8GetSWInfo

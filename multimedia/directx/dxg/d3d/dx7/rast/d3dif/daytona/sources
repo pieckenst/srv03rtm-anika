@@ -1,5 +1,0 @@
-!include ..\..\rastnt.mk
-!include ..\sources.inc
-
-TARGETLIBS = $(TARGETLIBS) \
-        $(BASEDIR)\public\sdk\lib\*\ddraw.lib

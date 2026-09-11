@@ -1,3 +1,0 @@
-PLAT_DIR = daytona
-!include ..\sources.inc
-

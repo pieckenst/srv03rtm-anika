@@ -1,4 +1,0 @@
-DIRS= inc \
-      guids \
-      sp_ctrl \
-      ui

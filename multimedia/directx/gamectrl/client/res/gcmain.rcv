@@ -1,9 +1,0 @@
-#include <winver.h>
-#include <verinfo.h>
-
-#define VERSIONNAME               "joy.dll\0"
-#define VERSIONDESCRIPTION        "Game Controller CPL Main\0"
-#define VERSIONTYPE               VFT_DLL
-#define VERSIONSUBTYPE            VFT2_UNKNOWN
-
-#include <verinfo.ver>

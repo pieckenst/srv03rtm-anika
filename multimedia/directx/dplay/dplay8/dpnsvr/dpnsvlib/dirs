@@ -1,3 +1,0 @@
-DIRS = win9x daytona
-
-OPTIONAL_DIRS = pocketpc{32} wince{32}

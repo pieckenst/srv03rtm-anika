@@ -1,6 +1,0 @@
-LIBRARY		AMSrc.AX
-PROTMODE
-EXPORTS
-           DllGetClassObject  PRIVATE
-DllCanUnloadNow  PRIVATE
-

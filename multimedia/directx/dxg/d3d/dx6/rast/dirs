@@ -1,3 +1,0 @@
-DIRS = mmxemul cspan mmxspan{x86} rampspan rampmat rampold{x86} mlspan setup d3dif spaninit
-OPTIONAL_DIRS =
-
