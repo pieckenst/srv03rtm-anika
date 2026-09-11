@@ -1,6 +1,0 @@
-LIBRARY SSINC
-
-EXPORTS
-    HttpExtensionProc
-    GetExtensionVersion
-    TerminateExtension

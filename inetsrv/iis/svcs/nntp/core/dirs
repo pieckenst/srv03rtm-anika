@@ -1,5 +1,0 @@
-DIRS= \
-    fixprop  \
-	flatfile \
-	propbag  \
-    rtscan2

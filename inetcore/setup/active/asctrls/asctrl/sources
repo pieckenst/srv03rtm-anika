@@ -1,7 +1,0 @@
-TARGETNAME=asctrl
-
-#VERIFY_LC=1
-LC_PATH=$(PROJECT_ROOT)\lcinf
-
-!include ..\sources.inc
-

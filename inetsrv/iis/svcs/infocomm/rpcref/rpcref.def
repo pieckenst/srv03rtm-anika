@@ -1,9 +1,0 @@
-; RPCREF.def : Declares the module parameters for the DLL.
-
-LIBRARY      "RPCREF"
-
-EXPORTS
-    ; Explicit exports can go here
-    ; LibMain
-        InetinfoStartRpcServerListen
-        InetinfoStopRpcServerListen

@@ -1,8 +1,0 @@
-DIRS=            \
-SchemaGen        \
-fastcache        \
-Dispenser        \
-entrypoint       \
-FileChng         \
-CatInproc_IIsCfg \
-catutil

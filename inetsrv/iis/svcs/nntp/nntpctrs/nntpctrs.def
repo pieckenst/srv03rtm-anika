@@ -1,8 +1,0 @@
-LIBRARY NNTPCTRS
-
-EXPORTS
-
-    OpenNntpPerformanceData      @1
-    CollectNntpPerformanceData   @2
-    CloseNntpPerformanceData     @3
-

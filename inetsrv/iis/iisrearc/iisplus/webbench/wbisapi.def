@@ -1,6 +1,0 @@
-LIBRARY WBISAPI
-
-EXPORTS
-    HttpExtensionProc
-    GetExtensionVersion
-    TerminateExtension

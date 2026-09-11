@@ -1,9 +1,0 @@
-DIRS= \
-	aqdisp \
-	cat      \
-	dsnsink  \
-	retrsink \
-	advqueue \
-	aqadmin  \
-    aqdbgext \
-	

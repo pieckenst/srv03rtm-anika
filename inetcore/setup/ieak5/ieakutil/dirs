@@ -1,5 +1,0 @@
-DIRS = \
-    srcw \
-    srca
-
-OPTIONAL_DIRS =

@@ -1,7 +1,0 @@
-DIRS=   \
-	Inc     \
-	Shared  \
-	stores	\
-	plugins	\
-	core	\
-

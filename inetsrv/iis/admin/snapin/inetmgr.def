@@ -1,9 +1,0 @@
-; inetmgr.def : Declares the module parameters.
-
-LIBRARY      "inetmgr.DLL"
-
-EXPORTS
-	DllCanUnloadNow     PRIVATE
-	DllGetClassObject   PRIVATE
-	DllRegisterServer   PRIVATE
-	DllUnregisterServer	PRIVATE

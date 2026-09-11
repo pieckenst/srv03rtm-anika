@@ -1,8 +1,0 @@
-LIBRARY      "isapips.dll"
-
-EXPORTS
-        DllGetClassObject PRIVATE
-        DllCanUnloadNow PRIVATE
-        GetProxyDllInfo     @3
-        DllRegisterServer PRIVATE
-        DllUnregisterServer PRIVATE

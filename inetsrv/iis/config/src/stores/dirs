@@ -1,5 +1,0 @@
-DIRS=		\
-fixedtable	\
-xmltable	\
-FixedSchemaInterceptor	\
-ErrorTable \

@@ -1,7 +1,0 @@
-DIRS=\
-        copyfile \
-	iismui \
-        infutil2 \
-	migrate \
-	FList \
-	uniutil

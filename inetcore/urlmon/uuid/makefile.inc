@@ -1,9 +1,0 @@
-LIBDIR=$(SDK_LIB_DEST)
-LIBFILE=$(TARGET_DIRECTORY)\uuidmon3.lib
-
-
-$(LIBDIR)\chicago\$(LIBFILE) : $(LIBDIR)\$(LIBFILE)
-
-
-
-

@@ -1,9 +1,0 @@
-; ieinst.def : Declares the module parameters.
-
-LIBRARY      "ieinst.DLL"
-
-EXPORTS
-	DllCanUnloadNow      PRIVATE
-	DllGetClassObject    PRIVATE
-	DllRegisterServer    PRIVATE
-	DllUnregisterServer	 PRIVATE
